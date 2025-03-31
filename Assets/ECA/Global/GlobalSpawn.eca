@@ -33,7 +33,7 @@
               "V": {
                 "shadow": {
                   "type": "tys",
-                  "id": "ESeznMai/LG5AVoxsIW!",
+                  "id": "Tc@6j}${K5x%(U6w_lIk",
                   "extraState": "ListT_any"
                 },
                 "block": {
@@ -127,7 +127,7 @@
                 "V": {
                   "shadow": {
                     "type": "tyd",
-                    "id": "J46DE5oy9D`E^r0)+QTK",
+                    "id": "w$!Tg6~b9KFy.sQ}s2([",
                     "extraState": "$Auto"
                   },
                   "block": {
@@ -208,7 +208,7 @@
                     "V": {
                       "shadow": {
                         "type": "tyd",
-                        "id": "(_5}h#d*N#G1;A~=d~E1",
+                        "id": "MJ=:PpE0[^P7`@z?XFkv",
                         "extraState": "$Auto"
                       },
                       "block": {
@@ -270,7 +270,7 @@
                         "R": {
                           "shadow": {
                             "type": "tys",
-                            "id": "WCv*|.Gqr[pPoHQMerNI",
+                            "id": "r$_g[._()IKwtT]%O%RK",
                             "extraState": "Vector3"
                           },
                           "block": {
@@ -331,7 +331,7 @@
         "type": "fna",
         "id": "QiFs!$?rea)nVu~v7-oJ",
         "x": 359,
-        "y": 586,
+        "y": 591,
         "extraState": [
           {
             "id": "_arg4341",
@@ -350,148 +350,182 @@
         "inputs": {
           "D": {
             "block": {
-              "type": "lcd",
-              "id": "=zl=ZF{XS@1c11,#YOh;",
-              "fields": {
-                "VD": {
-                  "name": "spawnPos",
-                  "type": "Vector3"
-                },
-                "T": "$Auto"
-              },
+              "type": "ipcm",
+              "id": "]Z3IG?=$Slz42pRc8q1r",
               "inputs": {
                 "V": {
                   "shadow": {
-                    "type": "tyd",
-                    "id": "L`lZ@nfUfizbH2tugVpn",
-                    "extraState": "$Auto"
-                  },
-                  "block": {
-                    "type": "fcv",
-                    "id": "ta1-B+hzB+Xsq[:/zRLC",
-                    "extraState": {
-                      "id": "Crpl@_RX7(hiJU0X$(.u",
-                      "name": "GetRandomSpawn",
-                      "params": [],
-                      "returnType": "Vector3"
+                    "type": "ipta",
+                    "id": "O=ZD]t%B?wAZ],9axGjJ",
+                    "fields": {
+                      "V": "Get random spawnpoint "
                     }
                   }
                 }
               },
               "next": {
                 "block": {
-                  "type": "a",
-                  "id": "I6jh5uY!xHx4Y5l))F@B",
-                  "extraState": {
-                    "X": 579,
-                    "L": [
-                      1,
-                      2,
-                      3
-                    ],
-                    "T": "TeleportPlayerPositionAndForward",
-                    "OT": null
-                  },
+                  "type": "ipcm",
+                  "id": "8.QAckn%~3N8vq}9$s5R",
                   "inputs": {
-                    "P1": {
+                    "V": {
                       "shadow": {
-                        "type": "tys",
-                        "id": "ON{o7Xh$}@!(26N`6e^b",
-                        "extraState": "PlayerOrVehicle"
-                      },
-                      "block": {
-                        "type": "lcg",
-                        "id": "/(E*8SN[cP(+cFV1cFD$",
-                        "extraState": "QiFs!$?rea)nVu~v7-oJ_arg4341",
+                        "type": "ipta",
+                        "id": "Cv%)7PzYS|?MUw0sJIH$",
                         "fields": {
-                          "VR": "player"
-                        }
-                      }
-                    },
-                    "P2": {
-                      "shadow": {
-                        "type": "ipv",
-                        "id": "4Y;YQJ4x[^mkp782u#XB",
-                        "fields": {
-                          "V1": 0,
-                          "V2": 0,
-                          "V3": 0
-                        }
-                      },
-                      "block": {
-                        "type": "lcg",
-                        "id": "ee~M5Fd2IDm+Kcu{Yan(",
-                        "extraState": "=zl=ZF{XS@1c11,#YOh;VD",
-                        "fields": {
-                          "VR": "spawnPos"
-                        }
-                      }
-                    },
-                    "P3": {
-                      "shadow": {
-                        "type": "ipv",
-                        "id": "txT*epXhh,?N@=jD#aOS",
-                        "fields": {
-                          "V1": 0,
-                          "V2": 0,
-                          "V3": 0
+                          "V": "and teleport player to that spawn"
                         }
                       }
                     }
                   },
                   "next": {
                     "block": {
-                      "type": "fca",
-                      "id": "3(cv/Ppti$N;$g0t,h83",
-                      "extraState": {
-                        "id": "e|Ya6{9+7E}tEW1{A3B-",
-                        "name": "SetInvincibleDuration",
-                        "params": [
-                          {
-                            "id": "_arg5550",
-                            "name": "player",
-                            "type": "Player",
-                            "isOut": false
-                          },
-                          {
-                            "id": "_arg1169",
-                            "name": "duration",
-                            "type": "Int",
-                            "isOut": false
-                          }
-                        ],
-                        "returnType": null
-                      },
+                      "type": "lcd",
+                      "id": "=zl=ZF{XS@1c11,#YOh;",
                       "fields": {
-                        "T": "S"
+                        "VD": {
+                          "name": "spawnPos",
+                          "type": "Vector3"
+                        },
+                        "T": "$Auto"
                       },
                       "inputs": {
-                        "_arg5550": {
+                        "V": {
                           "shadow": {
-                            "type": "tys",
-                            "id": "(|9H9X/Kc+[8MX!I6=[?",
-                            "extraState": "Player"
+                            "type": "tyd",
+                            "id": "r4KM5eR!,AJ3PhOgRW^j",
+                            "extraState": "$Auto"
                           },
                           "block": {
-                            "type": "lcg",
-                            "id": "`72c@I##Q=7Uda6*I.c6",
-                            "extraState": "QiFs!$?rea)nVu~v7-oJ_arg4341",
-                            "fields": {
-                              "VR": "player"
+                            "type": "fcv",
+                            "id": "ta1-B+hzB+Xsq[:/zRLC",
+                            "extraState": {
+                              "id": "Crpl@_RX7(hiJU0X$(.u",
+                              "name": "GetRandomSpawn",
+                              "params": [],
+                              "returnType": "Vector3"
                             }
                           }
-                        },
-                        "_arg1169": {
-                          "shadow": {
-                            "type": "tys",
-                            "id": "UYn_/=Z|b0c5+;j-E0%@",
-                            "extraState": "Int"
+                        }
+                      },
+                      "next": {
+                        "block": {
+                          "type": "a",
+                          "id": "I6jh5uY!xHx4Y5l))F@B",
+                          "extraState": {
+                            "X": 579,
+                            "L": [
+                              1,
+                              2,
+                              3
+                            ],
+                            "T": "TeleportPlayerPositionAndForward",
+                            "OT": null
                           },
-                          "block": {
-                            "type": "grg",
-                            "id": "`95LEs]$?=}LGKPRbJe?",
-                            "fields": {
-                              "VR": "vOPjfGl4z"
+                          "inputs": {
+                            "P1": {
+                              "shadow": {
+                                "type": "tys",
+                                "id": "ON{o7Xh$}@!(26N`6e^b",
+                                "extraState": "PlayerOrVehicle"
+                              },
+                              "block": {
+                                "type": "lcg",
+                                "id": "/(E*8SN[cP(+cFV1cFD$",
+                                "extraState": "QiFs!$?rea)nVu~v7-oJ_arg4341",
+                                "fields": {
+                                  "VR": "player"
+                                }
+                              }
+                            },
+                            "P2": {
+                              "shadow": {
+                                "type": "ipv",
+                                "id": "4Y;YQJ4x[^mkp782u#XB",
+                                "fields": {
+                                  "V1": 0,
+                                  "V2": 0,
+                                  "V3": 0
+                                }
+                              },
+                              "block": {
+                                "type": "lcg",
+                                "id": "ee~M5Fd2IDm+Kcu{Yan(",
+                                "extraState": "=zl=ZF{XS@1c11,#YOh;VD",
+                                "fields": {
+                                  "VR": "spawnPos"
+                                }
+                              }
+                            },
+                            "P3": {
+                              "shadow": {
+                                "type": "ipv",
+                                "id": "txT*epXhh,?N@=jD#aOS",
+                                "fields": {
+                                  "V1": 0,
+                                  "V2": 0,
+                                  "V3": 0
+                                }
+                              }
+                            }
+                          },
+                          "next": {
+                            "block": {
+                              "type": "fca",
+                              "id": "3(cv/Ppti$N;$g0t,h83",
+                              "extraState": {
+                                "id": "e|Ya6{9+7E}tEW1{A3B-",
+                                "name": "SetInvincibleDuration",
+                                "params": [
+                                  {
+                                    "id": "_arg5550",
+                                    "name": "player",
+                                    "type": "Player",
+                                    "isOut": false
+                                  },
+                                  {
+                                    "id": "_arg1169",
+                                    "name": "duration",
+                                    "type": "Int",
+                                    "isOut": false
+                                  }
+                                ],
+                                "returnType": null
+                              },
+                              "fields": {
+                                "T": "S"
+                              },
+                              "inputs": {
+                                "_arg5550": {
+                                  "shadow": {
+                                    "type": "tys",
+                                    "id": "b+=^P9DDo#$m48hVr{;k",
+                                    "extraState": "Player"
+                                  },
+                                  "block": {
+                                    "type": "lcg",
+                                    "id": "`72c@I##Q=7Uda6*I.c6",
+                                    "extraState": "QiFs!$?rea)nVu~v7-oJ_arg4341",
+                                    "fields": {
+                                      "VR": "player"
+                                    }
+                                  }
+                                },
+                                "_arg1169": {
+                                  "shadow": {
+                                    "type": "tys",
+                                    "id": ";ADZ67xsSY[7yi%rPKhK",
+                                    "extraState": "Int"
+                                  },
+                                  "block": {
+                                    "type": "grg",
+                                    "id": "`95LEs]$?=}LGKPRbJe?",
+                                    "fields": {
+                                      "VR": "vOPjfGl4z"
+                                    }
+                                  }
+                                }
+                              }
                             }
                           }
                         }
@@ -606,7 +640,7 @@
                       "_arg4341": {
                         "shadow": {
                           "type": "tys",
-                          "id": ")j/g[02qkV`$N/~21j7S",
+                          "id": "fm;:`fMWa*Jj^0`Ce?{T",
                           "extraState": "Player"
                         },
                         "block": {
@@ -660,7 +694,7 @@
               "V": {
                 "shadow": {
                   "type": "tyd",
-                  "id": "]q,MeaXYghLm$EIc}pI]",
+                  "id": "N$vRdMt6(1u;[HOv|:dN",
                   "extraState": "$Auto"
                 },
                 "block": {
@@ -718,7 +752,7 @@
                         "V1": {
                           "shadow": {
                             "type": "tys",
-                            "id": ")t]xf*C/9ODSmz@~.TT2",
+                            "id": "VJoR9|;LG(33rnUs?[6=",
                             "extraState": "any"
                           },
                           "block": {
@@ -733,7 +767,7 @@
                         "V2": {
                           "shadow": {
                             "type": "tys",
-                            "id": "jZqM5_Kh!u~i:lkhxIsc",
+                            "id": "IitD=Te(o3b/[:Sndc,:",
                             "extraState": "any"
                           },
                           "block": {
@@ -804,7 +838,7 @@
                               "_arg4341": {
                                 "shadow": {
                                   "type": "tys",
-                                  "id": "(afDujG~r,GvVHEImnoL",
+                                  "id": "sit`i;|a6!.j8VIqoG+/",
                                   "extraState": "Player"
                                 },
                                 "block": {
@@ -831,8 +865,8 @@
       {
         "type": "e",
         "id": "}]SunRAb6x;Fk}TQS9PJ",
-        "x": 7,
-        "y": 4,
+        "x": 8,
+        "y": 265,
         "extraState": {
           "X": 138,
           "L": [],
@@ -858,8 +892,8 @@
       {
         "type": "fna",
         "id": "F}IJl_P3M=LP^8[}e/M@",
-        "x": 1212,
-        "y": 239,
+        "x": 1207,
+        "y": 229,
         "extraState": [],
         "fields": {
           "N": "Init"
@@ -867,24 +901,15 @@
         "inputs": {
           "D": {
             "block": {
-              "type": "grs",
-              "id": "Yzz:lQSxGgeQZHwcPf_g",
-              "fields": {
-                "VR": "vvvMf2b6A",
-                "O": "UK"
-              },
+              "type": "ipcm",
+              "id": "4AK*hOzb~cq|B0:pSS_.",
               "inputs": {
                 "V": {
                   "shadow": {
-                    "type": "tys",
-                    "id": "3r|d2`*#!@D+Zz6Otyx7",
-                    "extraState": "Int"
-                  },
-                  "block": {
-                    "type": "ipi",
-                    "id": "R35)?nnnXO=O6+C,b0~X",
+                    "type": "ipta",
+                    "id": "Y+E]@(O59MXB$g$I1IU3",
                     "fields": {
-                      "V": 3000
+                      "V": "Adjust Respawn Time and Invincible Time here"
                     }
                   }
                 }
@@ -892,23 +917,49 @@
               "next": {
                 "block": {
                   "type": "grs",
-                  "id": "AYx,chmGCf@:r9TMy*1I",
+                  "id": "Yzz:lQSxGgeQZHwcPf_g",
                   "fields": {
-                    "VR": "vOPjfGl4z",
+                    "VR": "vvvMf2b6A",
                     "O": "UK"
                   },
                   "inputs": {
                     "V": {
                       "shadow": {
                         "type": "tys",
-                        "id": "lr`;Evs575i[%E;bh(mo",
+                        "id": "|Dn(xTEB,ozh}8@?4J9S",
                         "extraState": "Int"
                       },
                       "block": {
                         "type": "ipi",
-                        "id": "`^T2|g+C{;#?ig|Adukh",
+                        "id": "R35)?nnnXO=O6+C,b0~X",
                         "fields": {
-                          "V": 4000
+                          "V": 3000
+                        }
+                      }
+                    }
+                  },
+                  "next": {
+                    "block": {
+                      "type": "grs",
+                      "id": "AYx,chmGCf@:r9TMy*1I",
+                      "fields": {
+                        "VR": "vOPjfGl4z",
+                        "O": "UK"
+                      },
+                      "inputs": {
+                        "V": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "I!V-B{)bgS,U%($$W*`z",
+                            "extraState": "Int"
+                          },
+                          "block": {
+                            "type": "ipi",
+                            "id": "`^T2|g+C{;#?ig|Adukh",
+                            "fields": {
+                              "V": 4000
+                            }
+                          }
                         }
                       }
                     }
@@ -922,8 +973,8 @@
       {
         "type": "fna",
         "id": "e|Ya6{9+7E}tEW1{A3B-",
-        "x": 1026,
-        "y": 604,
+        "x": 1214,
+        "y": 433,
         "extraState": [
           {
             "id": "_arg5550",
@@ -977,7 +1028,7 @@
                 "V": {
                   "shadow": {
                     "type": "tys",
-                    "id": "-pi`lG:SLzodwCBo6{!b",
+                    "id": "pM(qcfv*Ug%@%sQW/v/l",
                     "extraState": "Bool"
                   },
                   "block": {
@@ -1047,7 +1098,7 @@
                         "V": {
                           "shadow": {
                             "type": "tys",
-                            "id": "x$[5CW;Bz7*!yV=%Df.n",
+                            "id": "+/,d_n4-).RI4~$(w`MX",
                             "extraState": "Bool"
                           },
                           "block": {
@@ -1096,4 +1147,4 @@
     "platform": 2
   }
 }
-//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}
+//"{FE:{"v":"1.12.3545052","c":{"FF":4701},"s":100}

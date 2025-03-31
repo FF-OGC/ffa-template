@@ -1,5 +1,9 @@
 # Free For All Template
 
+## Project Structure
+
+<img src ="./Images/structure.png" width = 700>
+
 ## Setup
 
 ### [Setting up the project](./Setup/setup.md)
@@ -16,4 +20,7 @@
 
 ### [5. UI](./Logic/ui.md)
 
+## Publish
+
+### [Publish Project](./Publish/publish.md)
 

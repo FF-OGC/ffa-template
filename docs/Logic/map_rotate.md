@@ -42,6 +42,8 @@ When match start, we get a random map to set it our Map for this session.
 
 <img src="../Images/set-random-map.png">
 
+[<- Back](../README.md)
+
 
 
 

@@ -120,3 +120,4 @@ Call Update whenever a player is eliminated. Overall, the file should look like 
 
 <img src = "../Images/ranking-overall.png">
 
+[<- Back](../README.md)

@@ -1,4 +1,4 @@
-[<- Back](../README.md)
+and teleport player to that spawn[<- Back](../README.md)
 - [Customize Win Condition](#customize-win-condition)
 - [Developing Tutorial](#developing-tutorial)
   - [Player Entity](#player-entity)
@@ -27,3 +27,5 @@ Create **GlobalEntity.eca** and add script to **Global**
 When receiving **Global_CheckEndGame** event, we check if the score is larger than the objective, we switch to the **EndRound** phase, if not, nothing happens.
 
 <img src="../Images/global-check-end.png">
+
+[<- Back](../README.md)

@@ -66,7 +66,7 @@
                     "V": {
                       "shadow": {
                         "type": "tys",
-                        "id": "TS_c:+{Mx~=,s$5VcwOl",
+                        "id": "|T[(#v`4{E$~cE`*[rtI",
                         "extraState": "Int"
                       },
                       "block": {
@@ -138,7 +138,7 @@
               "_arg443": {
                 "shadow": {
                   "type": "tys",
-                  "id": "oK1_#.aLaz,J$P=|M/9k",
+                  "id": ",cafm/#j{OJhZqfaAt7s",
                   "extraState": "Player"
                 },
                 "block": {
@@ -153,7 +153,7 @@
               "_arg343": {
                 "shadow": {
                   "type": "tys",
-                  "id": "@+tnRVx`TN,A;pEU(BtR",
+                  "id": "z}0{E=}3BD1P{?UO*Q/a",
                   "extraState": "Int"
                 },
                 "block": {
@@ -225,7 +225,7 @@
                       "V1": {
                         "shadow": {
                           "type": "tys",
-                          "id": "Q*%|3;]hh]a`O]bTdg7F",
+                          "id": "M^c=2r@#yF~+Mk^nY?rT",
                           "extraState": "number"
                         },
                         "block": {
@@ -240,7 +240,7 @@
                       "V2": {
                         "shadow": {
                           "type": "tys",
-                          "id": "xxYF8y9j3y]xrNqmS9MT",
+                          "id": "(sF/*7u7etRW|UUcI5eX",
                           "extraState": "number"
                         },
                         "block": {
@@ -305,7 +305,7 @@
                             "ow": {
                               "shadow": {
                                 "type": "tys",
-                                "id": "zru%etTRx.uBUR/+sQnP",
+                                "id": "pXCBnB=F;b$dS4/o{K+l",
                                 "extraState": "Entity"
                               },
                               "block": {
@@ -320,7 +320,7 @@
                             "P1": {
                               "shadow": {
                                 "type": "tys",
-                                "id": "k~LiS`VC#G/[Arg2V)|d",
+                                "id": "x5U^T+_R:0L|YWC@RjbM",
                                 "extraState": "Player"
                               },
                               "block": {
@@ -406,6 +406,23 @@
             }
           }
         }
+      },
+      {
+        "type": "ipcm",
+        "id": "]Z3IG?=$Slz42pRc8q1r",
+        "x": 678,
+        "y": 524,
+        "inputs": {
+          "V": {
+            "shadow": {
+              "type": "ipta",
+              "id": "O=ZD]t%B?wAZ],9axGjJ",
+              "fields": {
+                "V": "Get random spawnpoint \n"
+              }
+            }
+          }
+        }
       }
     ]
   },
@@ -424,4 +441,4 @@
     "platform": 2
   }
 }
-//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}
+//"{FE:{"v":"1.12.3545052","c":{"FF":4701},"s":100}

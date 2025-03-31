@@ -40,3 +40,5 @@ In this part, creators can config properties of the match. For example, turn on 
 Or turn on/off **Active/Passive Skills**
 
 <img src="../Images/setting2.png">
+
+[<- Back](../README.md)
