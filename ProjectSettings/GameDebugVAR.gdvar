@@ -1,0 +1,925 @@
+{
+  "ecaVarMap": {
+    "hejqmsywjr-m877mmi3-oo4pr8zinkb": [
+      "hejqmsywjr-m877mmi3-oo4pr8zinkbl`^ENS37solC=t.puzR~",
+      "hejqmsywjr-m877mmi3-oo4pr8zinkbM_`EvX!]|ugKiS$qe4Tj",
+      "hejqmsywjr-m877mmi3-oo4pr8zinkb0usbB~@!hUh~R4wdcPQ`",
+      "hejqmsywjr-m877mmi3-oo4pr8zinkbeYBDQGtPzXeExc+@)h/w",
+      "hejqmsywjr-m877mmi3-oo4pr8zinkb=vZx`%MH:jx@c-ftD*9c",
+      "hejqmsywjr-m877mmi3-oo4pr8zinkbmG}QhMC^vILzQ)Do#^*p",
+      "hejqmsywjr-m877mmi3-oo4pr8zinkbUQLS{xbJLofa*sf}!U#T",
+      "hejqmsywjr-m877mmi3-oo4pr8zinkb`fU.zfElC_#x|vE-WW,]",
+      "hejqmsywjr-m877mmi3-oo4pr8zinkb/?FIW~V`;X-B-dDBUk~1",
+      "hejqmsywjr-m877mmi3-oo4pr8zinkbd*:bOq3h~6Z2Y[^BRSAj"
+    ],
+    "owaf8jw7sv-m888x9h5-hw8er095u4t": [
+      "owaf8jw7sv-m888x9h5-hw8er095u4tu/$l-L_uwwz-RuyNcj:p",
+      "owaf8jw7sv-m888x9h5-hw8er095u4t.6L?N=7o4DUB0k3DfY@=",
+      "owaf8jw7sv-m888x9h5-hw8er095u4tz$39%6=b/9*HOW51(H{J",
+      "owaf8jw7sv-m888x9h5-hw8er095u4tE$k#|I3)pGBCEeol2J0%",
+      "owaf8jw7sv-m888x9h5-hw8er095u4toU%@wlx+2nRl.[4%Pm#~",
+      "owaf8jw7sv-m888x9h5-hw8er095u4tG)Y;oSK#vzG^tc,r2H?b",
+      "owaf8jw7sv-m888x9h5-hw8er095u4t`d8`!R5:h?inb/4:E4=u",
+      "owaf8jw7sv-m888x9h5-hw8er095u4tUwib[/ia`lobm{!-RxX(",
+      "owaf8jw7sv-m888x9h5-hw8er095u4ta_:I7VBHOEgG,s+~d|{/"
+    ],
+    "u8txackhibi-m88atrxp-he7qykoqv6f": [
+      "u8txackhibi-m88atrxp-he7qykoqv6f0oBG_f5/Q[5f(nE*8zw_",
+      "u8txackhibi-m88atrxp-he7qykoqv6fx5bghKP0VrBFdE[m)UGo",
+      "u8txackhibi-m88atrxp-he7qykoqv6fhDw_j%}{9)d^]+D#kaUB",
+      "u8txackhibi-m88atrxp-he7qykoqv6fgTS!m9(r1-U/l.DsIl4Q",
+      "u8txackhibi-m88atrxp-he7qykoqv6f~6-R{H[G~@@0)Q}Z*J)%",
+      "u8txackhibi-m88atrxp-he7qykoqv6f*l$If0DbE+{C,QbI^+Ix"
+    ],
+    "8hu4j5d2234-m877k9n2-rrqutvb6dh": [
+      "8hu4j5d2234-m877k9n2-rrqutvb6dh$G/JCYol`/j+Ef%Z!Y8M",
+      "8hu4j5d2234-m877k9n2-rrqutvb6dhWCc!oFaH9hOk0ahN$sIC",
+      "8hu4j5d2234-m877k9n2-rrqutvb6dh6Dn*5(px,4i,(eZMelEp",
+      "8hu4j5d2234-m877k9n2-rrqutvb6dhIr((0h{f@deoP9L]Jq_c",
+      "8hu4j5d2234-m877k9n2-rrqutvb6dhnwq?QDP`-Ae{d(y@Bint"
+    ],
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu": [
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu@6=2363t663[vu5vHeAK",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquaFu.u)JV)B!Y^lX+A/nu",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquF[ON?$$1cB6@YLb#lf]p",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu#)Wi.X9xWR8ALZ~|Xv$H",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu~7BxUBun2?mu#siAvJ1X",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquJCcM@38V_gWg7;XPI.GO",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqupWjFRy6FaR(j[_+S/i*s",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu-5N_.(L#*(!Q`GxdRs/u",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquH1LQ,Q#_QARK9^I{^[EV",
+      "cxskknw9j38-m88g4kyk-gh59c95dnque1olIu~]Zl^@w]2/dgM`",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquLxRTt~{pxzH`:2[:y.G$",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu@7gqoXSW+s4@V4A%1!#1",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquq0Gr+Zws7bRN$K9?DO}z",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu#l1nz=5|f_3#GEJWL:p5",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu0-6lf{CjQ`M^!IpXSd:w",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquZ6~lKfpj_{v2%cIICT7{",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu{q[S8A=hf+mct]!8,iiB",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquY5~n@3cJLFk^L|bu{[_n",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquTbMW6.)j!#Rv[I}yKpBt",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquClUenyxJ!BGHq~}W2t%(",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu~BJO2bRRc?8?r4w7{4E|",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqucKRnL8Z^Sses1mbxtb@j",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu$a%,P|xt7#03hm}${2ub",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu_C0lBkY[3C/~]j4X55$E",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquB?SZU3I:~3F7[d|?T`T1",
+      "cxskknw9j38-m88g4kyk-gh59c95dnqu!kju4rtqm#F04_BH(sGE",
+      "cxskknw9j38-m88g4kyk-gh59c95dnquBPrcJ(8TldeU-(qjkS@$"
+    ],
+    "jaml1rtioni-m88hjw07-qludw268wf": [
+      "jaml1rtioni-m88hjw07-qludw268wf!-Us2tsWn[!tsK#ng7-p",
+      "jaml1rtioni-m88hjw07-qludw268wfd!QS.^lkTVYMK#3s6})n",
+      "jaml1rtioni-m88hjw07-qludw268wfZ+8dE#a7l7[vfOXF}b^h",
+      "jaml1rtioni-m88hjw07-qludw268wf#J17-sXIWu301Rc0*{EB",
+      "jaml1rtioni-m88hjw07-qludw268wfD|aoEy0-_9Xk!B=*r5Yn",
+      "jaml1rtioni-m88hjw07-qludw268wf2q;`Nn7,~1%QJdY=+p+%",
+      "jaml1rtioni-m88hjw07-qludw268wf#;Rr:F?e!gm/3C@o6~Zw",
+      "jaml1rtioni-m88hjw07-qludw268wfuUM`3t|_6=sbv3I6`AXX",
+      "jaml1rtioni-m88hjw07-qludw268wf0:@ldl{Jc[Ln_,Tc{*^G",
+      "jaml1rtioni-m88hjw07-qludw268wfO[78[GK};Yh8YbRVNMi=",
+      "jaml1rtioni-m88hjw07-qludw268wfG7FL%mgVM`wUb4y;=6rZ",
+      "jaml1rtioni-m88hjw07-qludw268wfVwNi2Gro7hti49q^G+SC",
+      "jaml1rtioni-m88hjw07-qludw268wf!J^taGdLQE4%:Jo}IdzN",
+      "jaml1rtioni-m88hjw07-qludw268wfbPp^3X}7d0+d0oOje,1{",
+      "jaml1rtioni-m88hjw07-qludw268wf@DYd@QBYju!f6CS!s{NR",
+      "jaml1rtioni-m88hjw07-qludw268wfuh[|E4m!@m*LU4Mo(JiN",
+      "jaml1rtioni-m88hjw07-qludw268wfa_y_,05(=cn[-P_E]6Kq",
+      "jaml1rtioni-m88hjw07-qludw268wfUA?)i%_j[v6Z?g4x0sBv",
+      "jaml1rtioni-m88hjw07-qludw268wf;g(uz8C8d*Ba9pNu-qge",
+      "jaml1rtioni-m88hjw07-qludw268wf0;dg]YUm3nEKqduOcSvw",
+      "jaml1rtioni-m88hjw07-qludw268wfKOI$ocM-8z;!?jLap:gE",
+      "jaml1rtioni-m88hjw07-qludw268wf6(I#U:Br{ahj0McF/[[i",
+      "jaml1rtioni-m88hjw07-qludw268wf2BSE;u5H!+G8,MvD*Shy",
+      "jaml1rtioni-m88hjw07-qludw268wfAfmkaG}1)w(o=Z.?Ro8h",
+      "jaml1rtioni-m88hjw07-qludw268wf@+}5BO.|=2FcAMnQy,*6",
+      "jaml1rtioni-m88hjw07-qludw268wfslv,EUT+YVt.#O#zG9LR"
+    ],
+    "1prxfh11pl2-m8mtmtb7-ok50ivab52": [
+      "1prxfh11pl2-m8mtmtb7-ok50ivab52;$4bd_k#~}$6#h+`2n$;",
+      "1prxfh11pl2-m8mtmtb7-ok50ivab52sQ{X%j)y/bM5=mmZqWHP",
+      "1prxfh11pl2-m8mtmtb7-ok50ivab52YyvJ*w:IVaZJPG#eTWIE",
+      "1prxfh11pl2-m8mtmtb7-ok50ivab52.,y}*v5yS*$t`9FnFcDI",
+      "1prxfh11pl2-m8mtmtb7-ok50ivab528Yv.KP}P,WUwbVyk190S"
+    ],
+    "zz68fumo1kf-m877kjba-ap75bglogz": [
+      "zz68fumo1kf-m877kjba-ap75bglogzfWp=*@b@rienZbQBe3Gz",
+      "zz68fumo1kf-m877kjba-ap75bglogzvf`V_P9[3x2u5RY.P#dc",
+      "zz68fumo1kf-m877kjba-ap75bglogz0NFjq$Bwa9T9P_k|zU[e",
+      "zz68fumo1kf-m877kjba-ap75bglogz9/h4%qVgK|!HxIG.hxz_",
+      "zz68fumo1kf-m877kjba-ap75bglogzE^ri~lOy*=0FbsSR`tAR",
+      "zz68fumo1kf-m877kjba-ap75bglogz-|kFh;62W(+TWhNHK-]F",
+      "zz68fumo1kf-m877kjba-ap75bglogz$,jW/[s+VS3wubv|In}r",
+      "zz68fumo1kf-m877kjba-ap75bglogz=E2+q%6*vnbvdC21PE.g"
+    ],
+    "4bbjgwhr6vn-m877lsso-yl162bpb5t": [
+      "4bbjgwhr6vn-m877lsso-yl162bpb5t.@%j%F?F7M75%9f]Br-V",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5tgSyNKaWr?M)vSAEZmM`?",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5t+;(GtQNI0y_1Bf|@|2X%",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5t/(E*8SN[cP(+cFV1cFD$",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5tee~M5Fd2IDm+Kcu{Yan(",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5t`72c@I##Q=7Uda6*I.c6",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5ts2zU=H!7lNsWO)TDM8**",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5t!XNM7l_jJoW1ZqS61yXB",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5tvf`V_P9[3x2u5RY.P#dc",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5t0NFjq$Bwa9T9P_k|zU[e",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5tY^RAA|1{n_ad~pD2z:5T",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5t:g^T{r-5YP0:e8.;=:od",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5tNW6$-l!_cH|yt{l0Fx|)",
+      "4bbjgwhr6vn-m877lsso-yl162bpb5tIY4.:xQKlZ#!d5$^-Lp("
+    ],
+    "fdcmnnvioeq-m889ym3s-vbpbjhs7tnf": [
+      "fdcmnnvioeq-m889ym3s-vbpbjhs7tnfcpkBAxnk-N4+LhW-A0`j"
+    ],
+    "0x3knppd3bp-m88gzirx-z59e5awhuae": [
+      "0x3knppd3bp-m88gzirx-z59e5awhuaeZDmDNy1yd@S;1zEf*c/c"
+    ]
+  },
+  "varMap": {
+    "hejqmsywjr-m877mmi3-oo4pr8zinkbl`^ENS37solC=t.puzR~": {
+      "id": "[r/zRi4Ba6mP7-y0Y/*Qq_arg4911]value",
+      "name": "value",
+      "blockId": "l`^ENS37solC=t.puzR~",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "any"
+    },
+    "hejqmsywjr-m877mmi3-oo4pr8zinkbM_`EvX!]|ugKiS$qe4Tj": {
+      "id": "[cDVtF-u5TYxHgq-WC^f@_arg4911]value",
+      "name": "value",
+      "blockId": "M_`EvX!]|ugKiS$qe4Tj",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "any"
+    },
+    "hejqmsywjr-m877mmi3-oo4pr8zinkb0usbB~@!hUh~R4wdcPQ`": {
+      "id": "[XS|fc}_|uh|+p63e0*LBP3]Damage",
+      "name": "Damage",
+      "blockId": "0usbB~@!hUh~R4wdcPQ`",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "Int"
+    },
+    "hejqmsywjr-m877mmi3-oo4pr8zinkbeYBDQGtPzXeExc+@)h/w": {
+      "id": "[pX5mCBD^)EEgU1[$Ru6AP1]Target",
+      "name": "Target",
+      "blockId": "eYBDQGtPzXeExc+@)h/w",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "Entity"
+    },
+    "hejqmsywjr-m877mmi3-oo4pr8zinkb=vZx`%MH:jx@c-ftD*9c": {
+      "id": "[g`Uy}82=%@Xs_J]x0f-PP4]vest",
+      "name": "vest",
+      "blockId": "=vZx`%MH:jx@c-ftD*9c",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "ListT_Entity"
+    },
+    "hejqmsywjr-m877mmi3-oo4pr8zinkbmG}QhMC^vILzQ)Do#^*p": {
+      "id": "[Iyepa.fg_~ugBEqY%FtJP4]helmet",
+      "name": "helmet",
+      "blockId": "mG}QhMC^vILzQ)Do#^*p",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "ListT_Entity"
+    },
+    "hejqmsywjr-m877mmi3-oo4pr8zinkbUQLS{xbJLofa*sf}!U#T": {
+      "id": "[,WeZtAx%?ou}%Bq,CqmH_arg4746]itemDict",
+      "name": "itemDict",
+      "blockId": "UQLS{xbJLofa*sf}!U#T",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "Map"
+    },
+    "hejqmsywjr-m877mmi3-oo4pr8zinkb`fU.zfElC_#x|vE-WW,]": {
+      "id": "[%s3Pe(fZjKtT(q9+b!=WX]item",
+      "name": "item",
+      "blockId": "`fU.zfElC_#x|vE-WW,]",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "any"
+    },
+    "hejqmsywjr-m877mmi3-oo4pr8zinkb/?FIW~V`;X-B-dDBUk~1": {
+      "id": "[%s3Pe(fZjKtT(q9+b!=WI]count",
+      "name": "count",
+      "blockId": "/?FIW~V`;X-B-dDBUk~1",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "any"
+    },
+    "hejqmsywjr-m877mmi3-oo4pr8zinkbd*:bOq3h~6Z2Y[^BRSAj": {
+      "id": "[H7uk{#O5v3o=6TlDp2@cP1]Revival Source",
+      "name": "Revival Source",
+      "blockId": "d*:bOq3h~6Z2Y[^BRSAj",
+      "ecaId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+      "type": "PlayerReviveSourceType"
+    },
+    "owaf8jw7sv-m888x9h5-hw8er095u4tu/$l-L_uwwz-RuyNcj:p": {
+      "id": "[Gm?BHF$:Qi{kXb~o!RlDP1]Created Entity",
+      "name": "Created Entity",
+      "blockId": "u/$l-L_uwwz-RuyNcj:p",
+      "ecaId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+      "type": "CustomHud"
+    },
+    "owaf8jw7sv-m888x9h5-hw8er095u4t.6L?N=7o4DUB0k3DfY@=": {
+      "id": "[-$ury^TY|V8k.~/q4}*-P1]Created Entity",
+      "name": "Created Entity",
+      "blockId": ".6L?N=7o4DUB0k3DfY@=",
+      "ecaId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+      "type": "UGCShopHud"
+    },
+    "owaf8jw7sv-m888x9h5-hw8er095u4tz$39%6=b/9*HOW51(H{J": {
+      "id": "[-7*+L#/j)jkuuQ63`*%^_arg6440]isVisible",
+      "name": "isVisible",
+      "blockId": "z$39%6=b/9*HOW51(H{J",
+      "ecaId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+      "type": "any"
+    },
+    "owaf8jw7sv-m888x9h5-hw8er095u4tE$k#|I3)pGBCEeol2J0%": {
+      "id": "[H}4~!2d)oN8Mkd#0u2{c_arg6440]isVisible",
+      "name": "isVisible",
+      "blockId": "E$k#|I3)pGBCEeol2J0%",
+      "ecaId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+      "type": "any"
+    },
+    "owaf8jw7sv-m888x9h5-hw8er095u4toU%@wlx+2nRl.[4%Pm#~": {
+      "id": "[oP(wYv~FU6o~5_-LB!k6P1]Revival Source",
+      "name": "Revival Source",
+      "blockId": "oU%@wlx+2nRl.[4%Pm#~",
+      "ecaId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+      "type": "PlayerReviveSourceType"
+    },
+    "owaf8jw7sv-m888x9h5-hw8er095u4tG)Y;oSK#vzG^tc,r2H?b": {
+      "id": "[03kg{3.=AK!Qvi:d~e)v_arg7907]duration",
+      "name": "duration",
+      "blockId": "G)Y;oSK#vzG^tc,r2H?b",
+      "ecaId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+      "type": "Int"
+    },
+    "owaf8jw7sv-m888x9h5-hw8er095u4t`d8`!R5:h?inb/4:E4=u": {
+      "id": "[cfh6|-Fr4$$:Q%[r:%NzP1]Phase",
+      "name": "Phase",
+      "blockId": "`d8`!R5:h?inb/4:E4=u",
+      "ecaId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+      "type": "Phase"
+    },
+    "owaf8jw7sv-m888x9h5-hw8er095u4tUwib[/ia`lobm{!-RxX(": {
+      "id": "[|)p-Q#I(lpxWpU46t(`/VD]phaseIdex",
+      "name": "phaseIdex",
+      "blockId": "Uwib[/ia`lobm{!-RxX(",
+      "ecaId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+      "type": "Int"
+    },
+    "owaf8jw7sv-m888x9h5-hw8er095u4ta_:I7VBHOEgG,s+~d|{/": {
+      "id": "[|)p-Q#I(lpxWpU46t(`/VD]phaseIdex",
+      "name": "phaseIdex",
+      "blockId": "a_:I7VBHOEgG,s+~d|{/",
+      "ecaId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+      "type": "Int"
+    },
+    "u8txackhibi-m88atrxp-he7qykoqv6f0oBG_f5/Q[5f(nE*8zw_": {
+      "id": "[Or[vP+yf]:+@|c{GXz~:P1]Created Entity",
+      "name": "Created Entity",
+      "blockId": "0oBG_f5/Q[5f(nE*8zw_",
+      "ecaId": "u8txackhibi-m88atrxp-he7qykoqv6f",
+      "type": "MatchInfoSubTitleHud"
+    },
+    "u8txackhibi-m88atrxp-he7qykoqv6fx5bghKP0VrBFdE[m)UGo": {
+      "id": "[-A:#Pn4_)y`u,[FLCEXyP1]Created Entity",
+      "name": "Created Entity",
+      "blockId": "x5bghKP0VrBFdE[m)UGo",
+      "ecaId": "u8txackhibi-m88atrxp-he7qykoqv6f",
+      "type": "PhaseCountDownHud"
+    },
+    "u8txackhibi-m88atrxp-he7qykoqv6fhDw_j%}{9)d^]+D#kaUB": {
+      "id": "[/ibN8LPmYi:oz(9c}BK~_arg9904]phase",
+      "name": "phase",
+      "blockId": "hDw_j%}{9)d^]+D#kaUB",
+      "ecaId": "u8txackhibi-m88atrxp-he7qykoqv6f",
+      "type": "Phase"
+    },
+    "u8txackhibi-m88atrxp-he7qykoqv6fgTS!m9(r1-U/l.DsIl4Q": {
+      "id": "[XHH~SjuBy)/C!fT?R*r|P1]Phase",
+      "name": "Phase",
+      "blockId": "gTS!m9(r1-U/l.DsIl4Q",
+      "ecaId": "u8txackhibi-m88atrxp-he7qykoqv6f",
+      "type": "Phase"
+    },
+    "u8txackhibi-m88atrxp-he7qykoqv6f~6-R{H[G~@@0)Q}Z*J)%": {
+      "id": "[E!q}QT,$qjZDXKI0ByQVP1]Created Entity",
+      "name": "Created Entity",
+      "blockId": "~6-R{H[G~@@0)Q}Z*J)%",
+      "ecaId": "u8txackhibi-m88atrxp-he7qykoqv6f",
+      "type": "OpeningBannerHud"
+    },
+    "u8txackhibi-m88atrxp-he7qykoqv6f*l$If0DbE+{C,QbI^+Ix": {
+      "id": "[]5E`=^^x]ufd*,xLP@)NP1]Created Entity",
+      "name": "Created Entity",
+      "blockId": "*l$If0DbE+{C,QbI^+Ix",
+      "ecaId": "u8txackhibi-m88atrxp-he7qykoqv6f",
+      "type": "TeamRoundScoreBannerHud"
+    },
+    "8hu4j5d2234-m877k9n2-rrqutvb6dh$G/JCYol`/j+Ef%Z!Y8M": {
+      "id": "[qZY]#Ac(4w~u.:-v~z2_P1]player",
+      "name": "player",
+      "blockId": "$G/JCYol`/j+Ef%Z!Y8M",
+      "ecaId": "8hu4j5d2234-m877k9n2-rrqutvb6dh",
+      "type": "Player"
+    },
+    "8hu4j5d2234-m877k9n2-rrqutvb6dhWCc!oFaH9hOk0ahN$sIC": {
+      "id": "[qZY]#Ac(4w~u.:-v~z2_P2]score",
+      "name": "score",
+      "blockId": "WCc!oFaH9hOk0ahN$sIC",
+      "ecaId": "8hu4j5d2234-m877k9n2-rrqutvb6dh",
+      "type": "Int"
+    },
+    "8hu4j5d2234-m877k9n2-rrqutvb6dh6Dn*5(px,4i,(eZMelEp": {
+      "id": "[z-b]:+/m?-`ZAhCZf0Kt_arg343]score",
+      "name": "score",
+      "blockId": "6Dn*5(px,4i,(eZMelEp",
+      "ecaId": "8hu4j5d2234-m877k9n2-rrqutvb6dh",
+      "type": "Int"
+    },
+    "8hu4j5d2234-m877k9n2-rrqutvb6dhIr((0h{f@deoP9L]Jq_c": {
+      "id": "[5nRwN6eK?]|b#a1[]D)-I]_player",
+      "name": "_player",
+      "blockId": "Ir((0h{f@deoP9L]Jq_c",
+      "ecaId": "8hu4j5d2234-m877k9n2-rrqutvb6dh",
+      "type": "Player"
+    },
+    "8hu4j5d2234-m877k9n2-rrqutvb6dhnwq?QDP`-Ae{d(y@Bint": {
+      "id": "[z-b]:+/m?-`ZAhCZf0Kt_arg443]player",
+      "name": "player",
+      "blockId": "nwq?QDP`-Ae{d(y@Bint",
+      "ecaId": "8hu4j5d2234-m877k9n2-rrqutvb6dh",
+      "type": "Player"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu@6=2363t663[vu5vHeAK": {
+      "id": "[f$js1?%peWX_fcOPYr$VP1]Created Entity",
+      "name": "Created Entity",
+      "blockId": "@6=2363t663[vu5vHeAK",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "MoreTeamLeaderboardHudV2"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquaFu.u)JV)B!Y^lX+A/nu": {
+      "id": "[^HORf*9N-,ql..4D_+_,VD]sortedList",
+      "name": "sortedList",
+      "blockId": "aFu.u)JV)B!Y^lX+A/nu",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "ListT_any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquF[ON?$$1cB6@YLb#lf]p": {
+      "id": "[^HORf*9N-,ql..4D_+_,VD]sortedList",
+      "name": "sortedList",
+      "blockId": "F[ON?$$1cB6@YLb#lf]p",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "ListT_any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu#)Wi.X9xWR8ALZ~|Xv$H": {
+      "id": "[^HORf*9N-,ql..4D_+_,VD]sortedList",
+      "name": "sortedList",
+      "blockId": "#)Wi.X9xWR8ALZ~|Xv$H",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "ListT_any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu~7BxUBun2?mu#siAvJ1X": {
+      "id": "[o~f#B:Xh@OnKeKV-?%jRVD]playerList",
+      "name": "playerList",
+      "blockId": "~7BxUBun2?mu#siAvJ1X",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquJCcM@38V_gWg7;XPI.GO": {
+      "id": "[d!Z+k(JXf*5$VqNPC-NSVD]rankList",
+      "name": "rankList",
+      "blockId": "JCcM@38V_gWg7;XPI.GO",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqupWjFRy6FaR(j[_+S/i*s": {
+      "id": "[3rm,:)+dzZM4h4WYv*huVD]scoreList",
+      "name": "scoreList",
+      "blockId": "pWjFRy6FaR(j[_+S/i*s",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu-5N_.(L#*(!Q`GxdRs/u": {
+      "id": "[E|WvxD[k)+aj;r/q3{o2P1]Created Entity",
+      "name": "Created Entity",
+      "blockId": "-5N_.(L#*(!Q`GxdRs/u",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "MultiTeamMatchResultHud"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquH1LQ,Q#_QARK9^I{^[EV": {
+      "id": "[HW+g`*O:/!EYp3SWN+VkVD]sortedList",
+      "name": "sortedList",
+      "blockId": "H1LQ,Q#_QARK9^I{^[EV",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "ListT_any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnque1olIu~]Zl^@w]2/dgM`": {
+      "id": "[HW+g`*O:/!EYp3SWN+VkVD]sortedList",
+      "name": "sortedList",
+      "blockId": "e1olIu~]Zl^@w]2/dgM`",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "ListT_any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquLxRTt~{pxzH`:2[:y.G$": {
+      "id": "[HW+g`*O:/!EYp3SWN+VkVD]sortedList",
+      "name": "sortedList",
+      "blockId": "LxRTt~{pxzH`:2[:y.G$",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "ListT_any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu@7gqoXSW+s4@V4A%1!#1": {
+      "id": "[cqz999Gvaz(8gGg0c_L:VD]playerList",
+      "name": "playerList",
+      "blockId": "@7gqoXSW+s4@V4A%1!#1",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquq0Gr+Zws7bRN$K9?DO}z": {
+      "id": "[[vG~!W;HEG+%lFfXgt0;_arg2061]result",
+      "name": "result",
+      "blockId": "q0Gr+Zws7bRN$K9?DO}z",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu#l1nz=5|f_3#GEJWL:p5": {
+      "id": "[cqz999Gvaz(8gGg0c_L:VD]playerList",
+      "name": "playerList",
+      "blockId": "#l1nz=5|f_3#GEJWL:p5",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu0-6lf{CjQ`M^!IpXSd:w": {
+      "id": "[]z?q.V^XJdh#.o,!qPC^VD]scoreList",
+      "name": "scoreList",
+      "blockId": "0-6lf{CjQ`M^!IpXSd:w",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquZ6~lKfpj_{v2%cIICT7{": {
+      "id": "[z$[]c_YayFRn$$zs-@nuVD]teamList",
+      "name": "teamList",
+      "blockId": "Z6~lKfpj_{v2%cIICT7{",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu{q[S8A=hf+mct]!8,iiB": {
+      "id": "[?a_bx271%nUSw/NC2-Y#VD]rankList",
+      "name": "rankList",
+      "blockId": "{q[S8A=hf+mct]!8,iiB",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquY5~n@3cJLFk^L|bu{[_n": {
+      "id": "[Q4+}sk!)]r1DS{vM91nxP1]winner",
+      "name": "winner",
+      "blockId": "Y5~n@3cJLFk^L|bu{[_n",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "Player"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquTbMW6.)j!#Rv[I}yKpBt": {
+      "id": "[P}cVy]1sUeLkYk`|ceMRP1]Created Entity",
+      "name": "Created Entity",
+      "blockId": "TbMW6.)j!#Rv[I}yKpBt",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "ResultBannerHud"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquClUenyxJ!BGHq~}W2t%(": {
+      "id": "[-(3^o~5a75El72;*c9U*_arg8143]result",
+      "name": "result",
+      "blockId": "ClUenyxJ!BGHq~}W2t%(",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu~BJO2bRRc?8?r4w7{4E|": {
+      "id": "[Pg`F^7(XeK58eKmI0EYvP1]Phase",
+      "name": "Phase",
+      "blockId": "~BJO2bRRc?8?r4w7{4E|",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "Phase"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqucKRnL8Z^Sses1mbxtb@j": {
+      "id": "[h9v!6j%sixtsk)nnz_2TVD]phaseIndex",
+      "name": "phaseIndex",
+      "blockId": "cKRnL8Z^Sses1mbxtb@j",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "Int"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu$a%,P|xt7#03hm}${2ub": {
+      "id": "[znHn]hbU=5l.u6V(|7C`_arg3809]playerList",
+      "name": "playerList",
+      "blockId": "$a%,P|xt7#03hm}${2ub",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu_C0lBkY[3C/~]j4X55$E": {
+      "id": "[)%K@?s#(k.Kzpz|2yYzpI]player",
+      "name": "player",
+      "blockId": "_C0lBkY[3C/~]j4X55$E",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquB?SZU3I:~3F7[d|?T`T1": {
+      "id": "[_iKCxf|$g%t/0!B3aXUdVD]teamList",
+      "name": "teamList",
+      "blockId": "B?SZU3I:~3F7[d|?T`T1",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "ListT_any"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnqu!kju4rtqm#F04_BH(sGE": {
+      "id": "[ZXpnC^$sTP/6s%uYmP;9VD]team",
+      "name": "team",
+      "blockId": "!kju4rtqm#F04_BH(sGE",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "Team"
+    },
+    "cxskknw9j38-m88g4kyk-gh59c95dnquBPrcJ(8TldeU-(qjkS@$": {
+      "id": "[_iKCxf|$g%t/0!B3aXUdVD]teamList",
+      "name": "teamList",
+      "blockId": "BPrcJ(8TldeU-(qjkS@$",
+      "ecaId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf!-Us2tsWn[!tsK#ng7-p": {
+      "id": "[#]EnzxO_~^SrOn2[{,@5VD]playerList",
+      "name": "playerList",
+      "blockId": "!-Us2tsWn[!tsK#ng7-p",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfd!QS.^lkTVYMK#3s6})n": {
+      "id": "[#]EnzxO_~^SrOn2[{,@5VD]playerList",
+      "name": "playerList",
+      "blockId": "d!QS.^lkTVYMK#3s6})n",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfZ+8dE#a7l7[vfOXF}b^h": {
+      "id": "[0Ev=qQ?!iWV7Run5I$^=I]player",
+      "name": "player",
+      "blockId": "Z+8dE#a7l7[vfOXF}b^h",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf#J17-sXIWu301Rc0*{EB": {
+      "id": "[/agxT8wZsz(a]-Ni|E`BVD]highestScore",
+      "name": "highestScore",
+      "blockId": "#J17-sXIWu301Rc0*{EB",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "int"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfD|aoEy0-_9Xk!B=*r5Yn": {
+      "id": "[nN*.4*9pKGcCwF6:Eub`VD]highestPlayer",
+      "name": "highestPlayer",
+      "blockId": "D|aoEy0-_9Xk!B=*r5Yn",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf2q;`Nn7,~1%QJdY=+p+%": {
+      "id": "[0Ev=qQ?!iWV7Run5I$^=I]player",
+      "name": "player",
+      "blockId": "2q;`Nn7,~1%QJdY=+p+%",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf#;Rr:F?e!gm/3C@o6~Zw": {
+      "id": "[/agxT8wZsz(a]-Ni|E`BVD]highestScore",
+      "name": "highestScore",
+      "blockId": "#;Rr:F?e!gm/3C@o6~Zw",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "int"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfuUM`3t|_6=sbv3I6`AXX": {
+      "id": "[0Ev=qQ?!iWV7Run5I$^=I]player",
+      "name": "player",
+      "blockId": "uUM`3t|_6=sbv3I6`AXX",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf0:@ldl{Jc[Ln_,Tc{*^G": {
+      "id": "[-OSEdEYwt.@dK8,{3)/.VD]rankingPlayerList",
+      "name": "rankingPlayerList",
+      "blockId": "0:@ldl{Jc[Ln_,Tc{*^G",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfO[78[GK};Yh8YbRVNMi=": {
+      "id": "[nN*.4*9pKGcCwF6:Eub`VD]highestPlayer",
+      "name": "highestPlayer",
+      "blockId": "O[78[GK};Yh8YbRVNMi=",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfG7FL%mgVM`wUb4y;=6rZ": {
+      "id": "[R%p}FW4uZ#PA^v~60/f}VD]rankingListPlayerList",
+      "name": "rankingListPlayerList",
+      "blockId": "G7FL%mgVM`wUb4y;=6rZ",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfVwNi2Gro7hti49q^G+SC": {
+      "id": "[nN*.4*9pKGcCwF6:Eub`VD]highestPlayer",
+      "name": "highestPlayer",
+      "blockId": "VwNi2Gro7hti49q^G+SC",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf!J^taGdLQE4%:Jo}IdzN": {
+      "id": "[Bw=lo6^+k_=H{l(?!ZWcVD]rankingScoreList",
+      "name": "rankingScoreList",
+      "blockId": "!J^taGdLQE4%:Jo}IdzN",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfbPp^3X}7d0+d0oOje,1{": {
+      "id": "[/agxT8wZsz(a]-Ni|E`BVD]highestScore",
+      "name": "highestScore",
+      "blockId": "bPp^3X}7d0+d0oOje,1{",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "int"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf@DYd@QBYju!f6CS!s{NR": {
+      "id": "[$qQhnL?m5@U)nZy6JjR?VD]rankingRankList",
+      "name": "rankingRankList",
+      "blockId": "@DYd@QBYju!f6CS!s{NR",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfuh[|E4m!@m*LU4Mo(JiN": {
+      "id": "[-OSEdEYwt.@dK8,{3)/.VD]rankingPlayerList",
+      "name": "rankingPlayerList",
+      "blockId": "uh[|E4m!@m*LU4Mo(JiN",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfa_y_,05(=cn[-P_E]6Kq": {
+      "id": "[#]EnzxO_~^SrOn2[{,@5VD]playerList",
+      "name": "playerList",
+      "blockId": "a_y_,05(=cn[-P_E]6Kq",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfUA?)i%_j[v6Z?g4x0sBv": {
+      "id": "[nN*.4*9pKGcCwF6:Eub`VD]highestPlayer",
+      "name": "highestPlayer",
+      "blockId": "UA?)i%_j[v6Z?g4x0sBv",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf;g(uz8C8d*Ba9pNu-qge": {
+      "id": "[-OSEdEYwt.@dK8,{3)/.VD]rankingPlayerList",
+      "name": "rankingPlayerList",
+      "blockId": ";g(uz8C8d*Ba9pNu-qge",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf0;dg]YUm3nEKqduOcSvw": {
+      "id": "[Bw=lo6^+k_=H{l(?!ZWcVD]rankingScoreList",
+      "name": "rankingScoreList",
+      "blockId": "0;dg]YUm3nEKqduOcSvw",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfKOI$ocM-8z;!?jLap:gE": {
+      "id": "[$qQhnL?m5@U)nZy6JjR?VD]rankingRankList",
+      "name": "rankingRankList",
+      "blockId": "KOI$ocM-8z;!?jLap:gE",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf6(I#U:Br{ahj0McF/[[i": {
+      "id": "[R%p}FW4uZ#PA^v~60/f}VD]rankingListPlayerList",
+      "name": "rankingListPlayerList",
+      "blockId": "6(I#U:Br{ahj0McF/[[i",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "ListT_any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf2BSE;u5H!+G8,MvD*Shy": {
+      "id": "[Go^Avk]_bOIr`0t]xDiDI]player",
+      "name": "player",
+      "blockId": "2BSE;u5H!+G8,MvD*Shy",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Player"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfAfmkaG}1)w(o=Z.?Ro8h": {
+      "id": "[pZ8%[pXB:_Xdyx(^1KAd_arg1249]score",
+      "name": "score",
+      "blockId": "AfmkaG}1)w(o=Z.?Ro8h",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "any"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wf@+}5BO.|=2FcAMnQy,*6": {
+      "id": "[=M?COm@_*5SuNU0=k6FyVD]rank",
+      "name": "rank",
+      "blockId": "@+}5BO.|=2FcAMnQy,*6",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Int"
+    },
+    "jaml1rtioni-m88hjw07-qludw268wfslv,EUT+YVt.#O#zG9LR": {
+      "id": "[=M?COm@_*5SuNU0=k6FyVD]rank",
+      "name": "rank",
+      "blockId": "slv,EUT+YVt.#O#zG9LR",
+      "ecaId": "jaml1rtioni-m88hjw07-qludw268wf",
+      "type": "Int"
+    },
+    "1prxfh11pl2-m8mtmtb7-ok50ivab52;$4bd_k#~}$6#h+`2n$;": {
+      "id": "[*$00/)./snYw92+!02%[P1]Created Entity",
+      "name": "Created Entity",
+      "blockId": ";$4bd_k#~}$6#h+`2n$;",
+      "ecaId": "1prxfh11pl2-m8mtmtb7-ok50ivab52",
+      "type": "CustomHud"
+    },
+    "1prxfh11pl2-m8mtmtb7-ok50ivab52sQ{X%j)y/bM5=mmZqWHP": {
+      "id": "[GJp+{Mnn)#KEFiPjBr|7VD]score",
+      "name": "score",
+      "blockId": "sQ{X%j)y/bM5=mmZqWHP",
+      "ecaId": "1prxfh11pl2-m8mtmtb7-ok50ivab52",
+      "type": "HudLabelWidget"
+    },
+    "1prxfh11pl2-m8mtmtb7-ok50ivab52YyvJ*w:IVaZJPG#eTWIE": {
+      "id": "[{bpyBl[?2xxHm1AYY!o*VD]rank",
+      "name": "rank",
+      "blockId": "YyvJ*w:IVaZJPG#eTWIE",
+      "ecaId": "1prxfh11pl2-m8mtmtb7-ok50ivab52",
+      "type": "HudLabelWidget"
+    },
+    "1prxfh11pl2-m8mtmtb7-ok50ivab52.,y}*v5yS*$t`9FnFcDI": {
+      "id": "[FRt30}=vApR?x35~XpV]P1]Phase",
+      "name": "Phase",
+      "blockId": ".,y}*v5yS*$t`9FnFcDI",
+      "ecaId": "1prxfh11pl2-m8mtmtb7-ok50ivab52",
+      "type": "Phase"
+    },
+    "1prxfh11pl2-m8mtmtb7-ok50ivab528Yv.KP}P,WUwbVyk190S": {
+      "id": "[xYD%aag18^8n*SBg`40gVD]phaseIndex",
+      "name": "phaseIndex",
+      "blockId": "8Yv.KP}P,WUwbVyk190S",
+      "ecaId": "1prxfh11pl2-m8mtmtb7-ok50ivab52",
+      "type": "Int"
+    },
+    "zz68fumo1kf-m877kjba-ap75bglogzfWp=*@b@rienZbQBe3Gz": {
+      "id": "[2Q*Twzxu1Cys}*5}2!?8VD]random",
+      "name": "random",
+      "blockId": "fWp=*@b@rienZbQBe3Gz",
+      "ecaId": "zz68fumo1kf-m877kjba-ap75bglogz",
+      "type": "Int"
+    },
+    "zz68fumo1kf-m877kjba-ap75bglogzvf`V_P9[3x2u5RY.P#dc": {
+      "id": "[05/Jc{)v:_hgDj27Dq=1P1]Phase",
+      "name": "Phase",
+      "blockId": "vf`V_P9[3x2u5RY.P#dc",
+      "ecaId": "zz68fumo1kf-m877kjba-ap75bglogz",
+      "type": "Phase"
+    },
+    "zz68fumo1kf-m877kjba-ap75bglogz0NFjq$Bwa9T9P_k|zU[e": {
+      "id": "[CtE)Ximql9}In~88vH6wVD]phaseIndex",
+      "name": "phaseIndex",
+      "blockId": "0NFjq$Bwa9T9P_k|zU[e",
+      "ecaId": "zz68fumo1kf-m877kjba-ap75bglogz",
+      "type": "Int"
+    },
+    "zz68fumo1kf-m877kjba-ap75bglogz9/h4%qVgK|!HxIG.hxz_": {
+      "id": "[CtE)Ximql9}In~88vH6wVD]phaseIndex",
+      "name": "phaseIndex",
+      "blockId": "9/h4%qVgK|!HxIG.hxz_",
+      "ecaId": "zz68fumo1kf-m877kjba-ap75bglogz",
+      "type": "Int"
+    },
+    "zz68fumo1kf-m877kjba-ap75bglogzE^ri~lOy*=0FbsSR`tAR": {
+      "id": "[6!j4N`ghO9$_G=Ug_Bx}P1]Player",
+      "name": "Player",
+      "blockId": "E^ri~lOy*=0FbsSR`tAR",
+      "ecaId": "zz68fumo1kf-m877kjba-ap75bglogz",
+      "type": "Player"
+    },
+    "zz68fumo1kf-m877kjba-ap75bglogz-|kFh;62W(+TWhNHK-]F": {
+      "id": "[6!j4N`ghO9$_G=Ug_Bx}P1]Player",
+      "name": "Player",
+      "blockId": "-|kFh;62W(+TWhNHK-]F",
+      "ecaId": "zz68fumo1kf-m877kjba-ap75bglogz",
+      "type": "Player"
+    },
+    "zz68fumo1kf-m877kjba-ap75bglogz$,jW/[s+VS3wubv|In}r": {
+      "id": "[$j5EZ#8c^}m.yD|{Jy?a_arg8648]player",
+      "name": "player",
+      "blockId": "$,jW/[s+VS3wubv|In}r",
+      "ecaId": "zz68fumo1kf-m877kjba-ap75bglogz",
+      "type": "any"
+    },
+    "zz68fumo1kf-m877kjba-ap75bglogz=E2+q%6*vnbvdC21PE.g": {
+      "id": "[N^u8pnd/,+|i{v9C.ZsD_arg4742]mapCenter",
+      "name": "mapCenter",
+      "blockId": "=E2+q%6*vnbvdC21PE.g",
+      "ecaId": "zz68fumo1kf-m877kjba-ap75bglogz",
+      "type": "any"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5t.@%j%F?F7M75%9f]Br-V": {
+      "id": "[#ly3~g4=Z(YxBfO^B=f;P1]Map",
+      "name": "Map",
+      "blockId": ".@%j%F?F7M75%9f]Br-V",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "any"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5tgSyNKaWr?M)vSAEZmM`?": {
+      "id": "[t+u$6jcsmklT:0xG8iy;VD]random",
+      "name": "random",
+      "blockId": "gSyNKaWr?M)vSAEZmM`?",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Int"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5t+;(GtQNI0y_1Bf|@|2X%": {
+      "id": "[367~$e654:2P!w]Y16sJVD]spawn",
+      "name": "spawn",
+      "blockId": "+;(GtQNI0y_1Bf|@|2X%",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "any"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5t/(E*8SN[cP(+cFV1cFD$": {
+      "id": "[QiFs!$?rea)nVu~v7-oJ_arg4341]player",
+      "name": "player",
+      "blockId": "/(E*8SN[cP(+cFV1cFD$",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Player"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5tee~M5Fd2IDm+Kcu{Yan(": {
+      "id": "[=zl=ZF{XS@1c11,#YOh;VD]spawnPos",
+      "name": "spawnPos",
+      "blockId": "ee~M5Fd2IDm+Kcu{Yan(",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Vector3"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5t`72c@I##Q=7Uda6*I.c6": {
+      "id": "[QiFs!$?rea)nVu~v7-oJ_arg4341]player",
+      "name": "player",
+      "blockId": "`72c@I##Q=7Uda6*I.c6",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Player"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5ts2zU=H!7lNsWO)TDM8**": {
+      "id": "[WgFWcRf^7I]~zqMu9DhlP1]Player",
+      "name": "Player",
+      "blockId": "s2zU=H!7lNsWO)TDM8**",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Player"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5t!XNM7l_jJoW1ZqS61yXB": {
+      "id": "[WgFWcRf^7I]~zqMu9DhlP1]Player",
+      "name": "Player",
+      "blockId": "!XNM7l_jJoW1ZqS61yXB",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Player"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5tvf`V_P9[3x2u5RY.P#dc": {
+      "id": "[05/Jc{)v:_hgDj27Dq=1P1]Phase",
+      "name": "Phase",
+      "blockId": "vf`V_P9[3x2u5RY.P#dc",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Phase"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5t0NFjq$Bwa9T9P_k|zU[e": {
+      "id": "[CtE)Ximql9}In~88vH6wVD]phaseIndex",
+      "name": "phaseIndex",
+      "blockId": "0NFjq$Bwa9T9P_k|zU[e",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Int"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5tY^RAA|1{n_ad~pD2z:5T": {
+      "id": "[xg[^nvjZY1K|kTl]LJH:I]player",
+      "name": "player",
+      "blockId": "Y^RAA|1{n_ad~pD2z:5T",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Player"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5t:g^T{r-5YP0:e8.;=:od": {
+      "id": "[e|Ya6{9+7E}tEW1{A3B-_arg5550]player",
+      "name": "player",
+      "blockId": ":g^T{r-5YP0:e8.;=:od",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Player"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5tNW6$-l!_cH|yt{l0Fx|)": {
+      "id": "[e|Ya6{9+7E}tEW1{A3B-_arg1169]duration",
+      "name": "duration",
+      "blockId": "NW6$-l!_cH|yt{l0Fx|)",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Int"
+    },
+    "4bbjgwhr6vn-m877lsso-yl162bpb5tIY4.:xQKlZ#!d5$^-Lp(": {
+      "id": "[e|Ya6{9+7E}tEW1{A3B-_arg5550]player",
+      "name": "player",
+      "blockId": "IY4.:xQKlZ#!d5$^-Lp(",
+      "ecaId": "4bbjgwhr6vn-m877lsso-yl162bpb5t",
+      "type": "Player"
+    },
+    "fdcmnnvioeq-m889ym3s-vbpbjhs7tnfcpkBAxnk-N4+LhW-A0`j": {
+      "id": "[}B($Tw)t;j[D8bwr{GrnP1]Player",
+      "name": "Player",
+      "blockId": "cpkBAxnk-N4+LhW-A0`j",
+      "ecaId": "fdcmnnvioeq-m889ym3s-vbpbjhs7tnf",
+      "type": "Player"
+    },
+    "0x3knppd3bp-m88gzirx-z59e5awhuaeZDmDNy1yd@S;1zEf*c/c": {
+      "id": "[Rlu[prKnDju2EI?bcOEeP1]Player",
+      "name": "Player",
+      "blockId": "ZDmDNy1yd@S;1zEf*c/c",
+      "ecaId": "0x3knppd3bp-m88gzirx-z59e5awhuae",
+      "type": "Player"
+    }
+  }
+}
+//"{FE:{"v":"1.12.3545052","c":{"FF":4701},"s":100}

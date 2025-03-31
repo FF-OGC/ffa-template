@@ -1,0 +1,1057 @@
+{
+  "blocks": {
+    "languageVersion": 0,
+    "blocks": [
+      {
+        "type": "e",
+        "id": "W.84fz)SX[+$u/K*s-8/",
+        "x": 0,
+        "y": 100,
+        "extraState": {
+          "X": 138,
+          "L": [],
+          "T": "OnAwake",
+          "OT": "Entity"
+        },
+        "next": {
+          "block": {
+            "type": "fca",
+            "id": "GkyFJcqk:GAAHAEA.$GU",
+            "extraState": {
+              "id": ".9l^.ec@?``?R3q+2w)=",
+              "name": "Init",
+              "params": [],
+              "returnType": null
+            },
+            "fields": {
+              "T": "W"
+            }
+          }
+        }
+      },
+      {
+        "type": "fna",
+        "id": ".9l^.ec@?``?R3q+2w)=",
+        "x": 609,
+        "y": 0,
+        "extraState": [],
+        "fields": {
+          "N": "Init"
+        },
+        "inputs": {
+          "D": {
+            "block": {
+              "type": "fca",
+              "id": "kTolZg}2-F.D7Acc[1oU",
+              "extraState": {
+                "id": ":I$HW!Yx4b2*2CA|Q`68",
+                "name": "InitShopIcon",
+                "params": [],
+                "returnType": null
+              },
+              "fields": {
+                "T": "W"
+              },
+              "next": {
+                "block": {
+                  "type": "fca",
+                  "id": "Z!mYh,_WKp_ps9-z*d9b",
+                  "extraState": {
+                    "id": "4#Tkv%X6`gxT#[_/f*ha",
+                    "name": "InitShop",
+                    "params": [],
+                    "returnType": null
+                  },
+                  "fields": {
+                    "T": "W"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "fna",
+        "id": ":I$HW!Yx4b2*2CA|Q`68",
+        "x": 609,
+        "y": 130,
+        "extraState": [],
+        "fields": {
+          "N": "InitShopIcon"
+        },
+        "inputs": {
+          "D": {
+            "block": {
+              "type": "a",
+              "id": "Gm?BHF$:Qi{kXb~o!RlD",
+              "extraState": {
+                "X": 34,
+                "L": [
+                  1,
+                  2,
+                  3
+                ],
+                "T": "CreateCustomHud",
+                "OT": null
+              },
+              "fields": {
+                "P1": {
+                  "name": "Created Entity",
+                  "type": "CustomHud"
+                }
+              },
+              "inputs": {
+                "P2": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "%!#Dp^f7v5/*R9oFE-U?",
+                    "extraState": "Player"
+                  },
+                  "block": {
+                    "type": "ent",
+                    "id": "p/y_}NTtr7[74Dbb:E:N"
+                  }
+                },
+                "P3": {
+                  "shadow": {
+                    "type": "pkh",
+                    "id": "L0m32rkVK!w}ck[;7g4@",
+                    "fields": {
+                      "HD": "dq7hfvteqn-m8893uhi-ta6pcpdfjua"
+                    }
+                  }
+                }
+              },
+              "next": {
+                "block": {
+                  "type": "grs",
+                  "id": "QKCODyK:~FRe1w~4C(u=",
+                  "fields": {
+                    "VR": "vpZeHEhxP",
+                    "O": "UK"
+                  },
+                  "inputs": {
+                    "V": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": "itg-j%Giler6=136=}RJ",
+                        "extraState": "CustomHud"
+                      },
+                      "block": {
+                        "type": "lcg",
+                        "id": "u/$l-L_uwwz-RuyNcj:p",
+                        "extraState": "Gm?BHF$:Qi{kXb~o!RlDP1",
+                        "fields": {
+                          "VR": "Created Entity"
+                        }
+                      }
+                    }
+                  },
+                  "next": {
+                    "block": {
+                      "type": "prs",
+                      "id": "qEyOc.7Kt00[p1Z/skN`",
+                      "fields": {
+                        "P": "OpenState:CustomHud",
+                        "O": "UK"
+                      },
+                      "inputs": {
+                        "H": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "0D2T1,W8*I0AW0{0#q!?",
+                            "extraState": "Component"
+                          },
+                          "block": {
+                            "type": "grg",
+                            "id": ")#M9KWhqSn;5A;5`)rXT",
+                            "fields": {
+                              "VR": "vpZeHEhxP"
+                            }
+                          }
+                        },
+                        "V": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "9)8Z@jKV5v#gc[+*s+4Q",
+                            "extraState": "Bool"
+                          },
+                          "block": {
+                            "type": "ipb",
+                            "id": "^~{q{1Go![$WPMigR-b=",
+                            "fields": {
+                              "V": "F"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "fna",
+        "id": "4#Tkv%X6`gxT#[_/f*ha",
+        "x": 609,
+        "y": 315,
+        "extraState": [],
+        "fields": {
+          "N": "InitShop"
+        },
+        "inputs": {
+          "D": {
+            "block": {
+              "type": "a",
+              "id": "fTRfOR/06h,F)C[}zOHM",
+              "extraState": {
+                "X": 354,
+                "L": [
+                  1
+                ],
+                "T": "RemoveEntity",
+                "OT": null
+              },
+              "inputs": {
+                "P1": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "0YY1lAz`bydu/+7+rcou",
+                    "extraState": "entity"
+                  },
+                  "block": {
+                    "type": "grg",
+                    "id": "GM0/%#rz??H(=N*.3;sb",
+                    "fields": {
+                      "VR": "vdm6dzCdV"
+                    }
+                  }
+                }
+              },
+              "next": {
+                "block": {
+                  "type": "a",
+                  "id": "-$ury^TY|V8k.~/q4}*-",
+                  "extraState": {
+                    "X": 32,
+                    "L": [
+                      1,
+                      2,
+                      3
+                    ],
+                    "T": "CreateInternalHud",
+                    "OT": null
+                  },
+                  "fields": {
+                    "P1": {
+                      "name": "Created Entity",
+                      "type": "UGCShopHud"
+                    }
+                  },
+                  "inputs": {
+                    "P2": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": "I7(KWgs2kn+FM=^y#qYX",
+                        "extraState": "Player"
+                      },
+                      "block": {
+                        "type": "ent",
+                        "id": "3jy2X,w-W$]Af{k*sNP@"
+                      }
+                    },
+                    "P3": {
+                      "shadow": {
+                        "type": "pih",
+                        "id": "*z~=EWMfO6I0KUDiU|}S",
+                        "fields": {
+                          "V": "InternalHud_UGCShopHud"
+                        }
+                      }
+                    }
+                  },
+                  "next": {
+                    "block": {
+                      "type": "grs",
+                      "id": ";Bp8Fm5zCi_c3e^b:Nuq",
+                      "fields": {
+                        "VR": "vdm6dzCdV",
+                        "O": "UK"
+                      },
+                      "inputs": {
+                        "V": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "bCUpnBO58Lzql_.J]1y2",
+                            "extraState": "UGCShopHud"
+                          },
+                          "block": {
+                            "type": "lcg",
+                            "id": ".6L?N=7o4DUB0k3DfY@=",
+                            "extraState": "-$ury^TY|V8k.~/q4}*-P1",
+                            "fields": {
+                              "VR": "Created Entity"
+                            }
+                          }
+                        }
+                      },
+                      "next": {
+                        "block": {
+                          "type": "prs",
+                          "id": "{c=#,^+255fTFai~]2Y$",
+                          "fields": {
+                            "P": "BindShopEntity:UGCShopHud",
+                            "O": "UK"
+                          },
+                          "inputs": {
+                            "H": {
+                              "shadow": {
+                                "type": "tys",
+                                "id": "0D2T1,W8*I0AW0{0#q!?",
+                                "extraState": "Component"
+                              },
+                              "block": {
+                                "type": "grg",
+                                "id": "`emAqVF$r0$:ElS!79}!",
+                                "fields": {
+                                  "VR": "vdm6dzCdV"
+                                }
+                              }
+                            },
+                            "V": {
+                              "shadow": {
+                                "type": "tys",
+                                "id": "Z6!|r5diJ%=T+kG/=%b|",
+                                "extraState": "Shop"
+                              },
+                              "block": {
+                                "type": "ipe",
+                                "id": "T|Tb..Qzr9Myqx+|+X_@",
+                                "extraState": 10060,
+                                "fields": {
+                                  "I": "shopType14903724"
+                                }
+                              }
+                            }
+                          },
+                          "next": {
+                            "block": {
+                              "type": "prs",
+                              "id": "CB*m9Trs8@;TwuYuz=@?",
+                              "fields": {
+                                "P": "OpenState:UGCShopHud",
+                                "O": "UK"
+                              },
+                              "inputs": {
+                                "H": {
+                                  "shadow": {
+                                    "type": "tys",
+                                    "id": "0D2T1,W8*I0AW0{0#q!?",
+                                    "extraState": "Component"
+                                  },
+                                  "block": {
+                                    "type": "grg",
+                                    "id": "MFF9gA`dWMCs;!S],bzN",
+                                    "fields": {
+                                      "VR": "vdm6dzCdV"
+                                    }
+                                  }
+                                },
+                                "V": {
+                                  "shadow": {
+                                    "type": "tys",
+                                    "id": "4@;nncJ!)E.Xu`2HYv_W",
+                                    "extraState": "Bool"
+                                  },
+                                  "block": {
+                                    "type": "ipb",
+                                    "id": "CuRe}*Gl;JhSHCFLI;y.",
+                                    "fields": {
+                                      "V": "F"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "fna",
+        "id": "-7*+L#/j)jkuuQ63`*%^",
+        "x": 1281,
+        "y": 0,
+        "extraState": [
+          {
+            "id": "_arg6440",
+            "name": "isVisible",
+            "type": "any",
+            "isOut": false
+          }
+        ],
+        "fields": {
+          "N": "SetShopIconVisibility",
+          "_arg6440": {
+            "name": "isVisible",
+            "type": "any"
+          }
+        },
+        "inputs": {
+          "D": {
+            "block": {
+              "type": "prs",
+              "id": ";2[pN|Jxc1B+TH_7yHLW",
+              "fields": {
+                "P": "OpenState:CustomHud",
+                "O": "UK"
+              },
+              "inputs": {
+                "H": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "0D2T1,W8*I0AW0{0#q!?",
+                    "extraState": "Component"
+                  },
+                  "block": {
+                    "type": "grg",
+                    "id": "TGZ7igegw-hmwKwNqos!",
+                    "fields": {
+                      "VR": "vpZeHEhxP"
+                    }
+                  }
+                },
+                "V": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "D/!RTP7[,.j7uI0Y;)9S",
+                    "extraState": "Bool"
+                  },
+                  "block": {
+                    "type": "lcg",
+                    "id": "z$39%6=b/9*HOW51(H{J",
+                    "extraState": "-7*+L#/j)jkuuQ63`*%^_arg6440",
+                    "fields": {
+                      "VR": "isVisible"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "fna",
+        "id": "H}4~!2d)oN8Mkd#0u2{c",
+        "x": 1281,
+        "y": 139,
+        "extraState": [
+          {
+            "id": "_arg6440",
+            "name": "isVisible",
+            "type": "any",
+            "isOut": false
+          }
+        ],
+        "fields": {
+          "N": "SetShopVisibility",
+          "_arg6440": {
+            "name": "isVisible",
+            "type": "any"
+          }
+        },
+        "inputs": {
+          "D": {
+            "block": {
+              "type": "fca",
+              "id": "X8zMByU|pd$uky]v%l_=",
+              "extraState": {
+                "id": "4#Tkv%X6`gxT#[_/f*ha",
+                "name": "InitShop",
+                "params": [],
+                "returnType": null
+              },
+              "fields": {
+                "T": "W"
+              },
+              "next": {
+                "block": {
+                  "type": "prs",
+                  "id": "Km]3+R(-`sIGQe?mEc%j",
+                  "fields": {
+                    "P": "OpenState:UGCShopHud",
+                    "O": "UK"
+                  },
+                  "inputs": {
+                    "H": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": "0D2T1,W8*I0AW0{0#q!?",
+                        "extraState": "Component"
+                      },
+                      "block": {
+                        "type": "grg",
+                        "id": "#9|v`R~2CQ2~$[A_imwm",
+                        "fields": {
+                          "VR": "vdm6dzCdV"
+                        }
+                      }
+                    },
+                    "V": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": "71F3oF?vo0O/(@L?@uuY",
+                        "extraState": "Bool"
+                      },
+                      "block": {
+                        "type": "lcg",
+                        "id": "E$k#|I3)pGBCEeol2J0%",
+                        "extraState": "H}4~!2d)oN8Mkd#0u2{c_arg6440",
+                        "fields": {
+                          "VR": "isVisible"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "e",
+        "id": "oP(wYv~FU6o~5_-LB!k6",
+        "x": -10,
+        "y": -86,
+        "extraState": {
+          "X": 218,
+          "L": [
+            1
+          ],
+          "T": "OnRevived",
+          "OT": "Player"
+        },
+        "fields": {
+          "P1": {
+            "name": "Revival Source",
+            "type": "PlayerReviveSourceType"
+          }
+        },
+        "next": {
+          "block": {
+            "type": "ife1",
+            "id": "=io2r=+]J}$cCid~}_@V",
+            "extraState": {
+              "X": 1,
+              "CIDS": []
+            },
+            "inputs": {
+              "C": {
+                "shadow": {
+                  "type": "tys",
+                  "id": "j$,zK;UxnX$H~nPpEFn.",
+                  "extraState": "bool"
+                },
+                "block": {
+                  "type": "opc",
+                  "id": "=x4taHrU:`:|fGQ#FPVu",
+                  "fields": {
+                    "O": "EQ"
+                  },
+                  "inputs": {
+                    "V1": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": "MkIxj.yvc_#SMFaQAlhT",
+                        "extraState": "any"
+                      },
+                      "block": {
+                        "type": "lcg",
+                        "id": "oU%@wlx+2nRl.[4%Pm#~",
+                        "extraState": "oP(wYv~FU6o~5_-LB!k6P1",
+                        "fields": {
+                          "VR": "Revival Source"
+                        }
+                      }
+                    },
+                    "V2": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": "t{r$~#lSDGO8Mr4p%b._",
+                        "extraState": "any"
+                      },
+                      "block": {
+                        "type": "ipe",
+                        "id": "t!?!A=XQPB@iXXzv5dbv",
+                        "extraState": 306,
+                        "fields": {
+                          "I": "Death"
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "D": {
+                "block": {
+                  "type": "fca",
+                  "id": "DGJJpy_clpmF8v)F8Z,d",
+                  "extraState": {
+                    "id": "03kg{3.=AK!Qvi:d~e)v",
+                    "name": "SetShopIconVisibilityDuration",
+                    "params": [
+                      {
+                        "id": "_arg7907",
+                        "name": "duration",
+                        "type": "Int",
+                        "isOut": false
+                      }
+                    ],
+                    "returnType": null
+                  },
+                  "fields": {
+                    "T": "W"
+                  },
+                  "inputs": {
+                    "_arg7907": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": ":8piR1XscBB}ROaA2VY+",
+                        "extraState": "Int"
+                      },
+                      "block": {
+                        "type": "ipi",
+                        "id": "X%,Eeo`n*}?*`Bujw@7x",
+                        "fields": {
+                          "V": 5000
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "fna",
+        "id": "03kg{3.=AK!Qvi:d~e)v",
+        "x": 1671,
+        "y": 0,
+        "extraState": [
+          {
+            "id": "_arg7907",
+            "name": "duration",
+            "type": "Int",
+            "isOut": false
+          }
+        ],
+        "fields": {
+          "N": "SetShopIconVisibilityDuration",
+          "_arg7907": {
+            "name": "duration",
+            "type": "Int"
+          }
+        },
+        "inputs": {
+          "D": {
+            "block": {
+              "type": "fca",
+              "id": "#,5J0}?=Esa00T)et,=K",
+              "extraState": {
+                "id": "-7*+L#/j)jkuuQ63`*%^",
+                "name": "SetShopIconVisibility",
+                "params": [
+                  {
+                    "id": "_arg6440",
+                    "name": "isVisible",
+                    "type": "any",
+                    "isOut": false
+                  }
+                ],
+                "returnType": null
+              },
+              "fields": {
+                "T": "W"
+              },
+              "inputs": {
+                "_arg6440": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "vvI~+{Fu)V3;zY)U-J|/",
+                    "extraState": "any"
+                  },
+                  "block": {
+                    "type": "ipb",
+                    "id": "#U2J404VQ6cgy.zr^^|M",
+                    "fields": {
+                      "V": "T"
+                    }
+                  }
+                }
+              },
+              "next": {
+                "block": {
+                  "type": "a",
+                  "id": ";lQ*-Z;lly)kXK~/d_#K",
+                  "extraState": {
+                    "X": 30,
+                    "L": [
+                      1
+                    ],
+                    "T": "WaitForSeconds",
+                    "OT": null
+                  },
+                  "inputs": {
+                    "P1": {
+                      "shadow": {
+                        "type": "ipi",
+                        "id": "Sum$k)@8Vq4(8prxh_8[",
+                        "fields": {
+                          "V": 5000
+                        }
+                      },
+                      "block": {
+                        "type": "lcg",
+                        "id": "G)Y;oSK#vzG^tc,r2H?b",
+                        "extraState": "03kg{3.=AK!Qvi:d~e)v_arg7907",
+                        "fields": {
+                          "VR": "duration"
+                        }
+                      }
+                    }
+                  },
+                  "next": {
+                    "block": {
+                      "type": "fca",
+                      "id": "zo)5K*zm}BlAu65tj*!n",
+                      "extraState": {
+                        "id": "-7*+L#/j)jkuuQ63`*%^",
+                        "name": "SetShopIconVisibility",
+                        "params": [
+                          {
+                            "id": "_arg6440",
+                            "name": "isVisible",
+                            "type": "any",
+                            "isOut": false
+                          }
+                        ],
+                        "returnType": null
+                      },
+                      "fields": {
+                        "T": "W"
+                      },
+                      "inputs": {
+                        "_arg6440": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "aOgq![6q|x;A99Yq,Yt`",
+                            "extraState": "any"
+                          },
+                          "block": {
+                            "type": "ipb",
+                            "id": "U=Mbhn,oqh:;YAYu.vg!",
+                            "fields": {
+                              "V": "F"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "e",
+        "id": "cfh6|-Fr4$$:Q%[r:%Nz",
+        "x": 0,
+        "y": 186,
+        "extraState": {
+          "X": 5,
+          "L": [
+            1
+          ],
+          "T": "OnPhaseStart",
+          "OT": null
+        },
+        "fields": {
+          "P1": {
+            "name": "Phase",
+            "type": "Phase"
+          }
+        },
+        "next": {
+          "block": {
+            "type": "lcd",
+            "id": "|)p-Q#I(lpxWpU46t(`/",
+            "fields": {
+              "VD": {
+                "name": "phaseIdex",
+                "type": "Int"
+              },
+              "T": "$Auto"
+            },
+            "inputs": {
+              "V": {
+                "shadow": {
+                  "type": "tyd",
+                  "id": ";VF#nwkLS=YDX+7((zy{",
+                  "extraState": "$Auto"
+                },
+                "block": {
+                  "type": "prg",
+                  "id": "I{}Ikfj%l`B14u~xfJV,",
+                  "extraState": {
+                    "X": 1,
+                    "T": "Int"
+                  },
+                  "fields": {
+                    "P": "PhaseIndex:Phase"
+                  },
+                  "inputs": {
+                    "H": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": ".[#@-yH-be$}RU{gfFee",
+                        "extraState": "Component"
+                      },
+                      "block": {
+                        "type": "lcg",
+                        "id": "`d8`!R5:h?inb/4:E4=u",
+                        "extraState": "cfh6|-Fr4$$:Q%[r:%NzP1",
+                        "fields": {
+                          "VR": "Phase"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "next": {
+              "block": {
+                "type": "ife1",
+                "id": "(],`Q9+D^=P:7)3hf{g6",
+                "extraState": {
+                  "X": 3,
+                  "CIDS": [
+                    1
+                  ]
+                },
+                "inputs": {
+                  "C": {
+                    "shadow": {
+                      "type": "tys",
+                      "id": "|lLD=[$*mfKDPsI[hoJ/",
+                      "extraState": "bool"
+                    },
+                    "block": {
+                      "type": "opc",
+                      "id": "`3C#+=Qf@-!1ixM6Bt/@",
+                      "fields": {
+                        "O": "EQ"
+                      },
+                      "inputs": {
+                        "V1": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "izt2d#3^TW;^unVr?aHd",
+                            "extraState": "any"
+                          },
+                          "block": {
+                            "type": "lcg",
+                            "id": "Uwib[/ia`lobm{!-RxX(",
+                            "extraState": "|)p-Q#I(lpxWpU46t(`/VD",
+                            "fields": {
+                              "VR": "phaseIdex"
+                            }
+                          }
+                        },
+                        "V2": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "CzE*_ZmB!I%ltUWw}x29",
+                            "extraState": "any"
+                          },
+                          "block": {
+                            "type": "ipe",
+                            "id": "d6xxox.TW.gMpmx2C$7g",
+                            "extraState": 10009,
+                            "fields": {
+                              "I": "abxyGeX2"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "D": {
+                    "block": {
+                      "type": "fca",
+                      "id": "(-xM/t_mE3mAlcwQPpMl",
+                      "extraState": {
+                        "id": "03kg{3.=AK!Qvi:d~e)v",
+                        "name": "SetShopIconVisibilityDuration",
+                        "params": [
+                          {
+                            "id": "_arg7907",
+                            "name": "duration",
+                            "type": "Int",
+                            "isOut": false
+                          }
+                        ],
+                        "returnType": null
+                      },
+                      "fields": {
+                        "T": "W"
+                      },
+                      "inputs": {
+                        "_arg7907": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "/xwgjC,eW*PW,l-}`v,~",
+                            "extraState": "Int"
+                          },
+                          "block": {
+                            "type": "ipi",
+                            "id": "-5y].=h{I~eaJ?-{FDjG",
+                            "fields": {
+                              "V": 5000
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "C_1": {
+                    "shadow": {
+                      "type": "tys",
+                      "id": "7r;nY,9aidSc|G)3A25J",
+                      "extraState": "bool"
+                    },
+                    "block": {
+                      "type": "opc",
+                      "id": "=HYEYq({6Y#WPO//V^Ji",
+                      "fields": {
+                        "O": "EQ"
+                      },
+                      "inputs": {
+                        "V1": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "@;?i~nx_pdo3^m~j7to7",
+                            "extraState": "any"
+                          },
+                          "block": {
+                            "type": "lcg",
+                            "id": "a_:I7VBHOEgG,s+~d|{/",
+                            "extraState": "|)p-Q#I(lpxWpU46t(`/VD",
+                            "fields": {
+                              "VR": "phaseIdex"
+                            }
+                          }
+                        },
+                        "V2": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "]DdP[QLmPn)V^Q]0#}wo",
+                            "extraState": "any"
+                          },
+                          "block": {
+                            "type": "ipe",
+                            "id": "Y?]c*)Ws7R;:kZ)|uoYN",
+                            "extraState": 10009,
+                            "fields": {
+                              "I": "hoNnzKj1"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "D_1": {
+                    "block": {
+                      "type": "fca",
+                      "id": "~+E6vrl%7nrx+;.C1Ykt",
+                      "extraState": {
+                        "id": "H}4~!2d)oN8Mkd#0u2{c",
+                        "name": "SetShopVisibility",
+                        "params": [
+                          {
+                            "id": "_arg6440",
+                            "name": "isVisible",
+                            "type": "any",
+                            "isOut": false
+                          }
+                        ],
+                        "returnType": null
+                      },
+                      "fields": {
+                        "T": "W"
+                      },
+                      "inputs": {
+                        "_arg6440": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "0QEl8AA}3TPPW!%)]q3B",
+                            "extraState": "any"
+                          },
+                          "block": {
+                            "type": "ipb",
+                            "id": "v$,9|:d!yIfkZLoZ7,zq",
+                            "fields": {
+                              "V": "F"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "variables": [
+    {
+      "id": "vdm6dzCdV",
+      "name": "ShopHUD",
+      "type": "UGCShopHud",
+      "value": null
+    },
+    {
+      "id": "vpZeHEhxP",
+      "name": "ShopIcon",
+      "type": "CustomHud",
+      "value": null
+    }
+  ],
+  "graphData": {
+    "ownerType": "Entity",
+    "componentTypes": "Entity&Player",
+    "isStatic": false,
+    "platform": 2
+  }
+}
+//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}

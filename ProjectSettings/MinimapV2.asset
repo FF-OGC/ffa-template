@@ -1,0 +1,21 @@
+{
+  "_tag": {
+    "type": "ff.MinimapV2",
+    "resourceId": "MinimapV2"
+  },
+  "_entityId": "0ZizADZt",
+  "children": [],
+  "prefabVariant": null,
+  "activeValue": null,
+  "unlockedValue": null,
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "modId": 34,
+  "hideMinimap": false,
+  "useCustomMinimap": false,
+  "enableDepthMap": false,
+  "modOpen": true,
+  "mapType": null,
+  "_entityName": "FE_40_XYL_CUSTOMMINIMAP"
+}
+//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}

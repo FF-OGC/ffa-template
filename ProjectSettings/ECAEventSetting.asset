@@ -1,0 +1,71 @@
+{
+  "_tag": {
+    "type": "ecaEventDesc"
+  },
+  "_entityId": "zXGgh24t",
+  "customEventDefines": {
+    "signal_83380786": {
+      "name": "Global_MapSelected",
+      "eventType": 0,
+      "enitityType": "Entity",
+      "typeID": 100000,
+      "props": [
+        {
+          "name": "Map",
+          "value": "any",
+          "key": 1
+        }
+      ],
+      "propCount": 1,
+      "apiTargetV2": "both",
+      "version": 45,
+      "key": "signal_83380786"
+    },
+    "signal_12290322": {
+      "name": "Global_CheckEndGame",
+      "eventType": 0,
+      "enitityType": "Entity",
+      "typeID": 100001,
+      "props": [
+        {
+          "name": "player",
+          "value": "Player",
+          "key": 1
+        },
+        {
+          "name": "score",
+          "value": "Int",
+          "key": 2
+        }
+      ],
+      "propCount": 2,
+      "apiTargetV2": "both",
+      "version": 45,
+      "key": "signal_12290322"
+    },
+    "signal_22393220": {
+      "name": "Player_EndGame",
+      "eventType": 0,
+      "enitityType": "Entity",
+      "typeID": 100002,
+      "props": [
+        {
+          "name": "winner",
+          "value": "Player",
+          "key": 1
+        }
+      ],
+      "propCount": 1,
+      "apiTargetV2": "both",
+      "version": 45,
+      "key": "signal_22393220"
+    }
+  },
+  "customName": {
+    "Global_MapSelected": "signal_83380786",
+    "Global_CheckEndGame": "signal_12290322",
+    "Player_EndGame": "signal_22393220"
+  },
+  "children": []
+}
+//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}

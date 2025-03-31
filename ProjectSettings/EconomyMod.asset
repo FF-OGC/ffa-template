@@ -1,0 +1,461 @@
+{
+  "_tag": {
+    "type": "ff.economy",
+    "resourceId": "Economy"
+  },
+  "_entityId": "EVcxe7Mg",
+  "children": [],
+  "prefabVariant": null,
+  "activeValue": {
+    "selfValue": true,
+    "valueTag": "activeValue"
+  },
+  "unlockedValue": {
+    "selfValue": true,
+    "valueTag": "unlockedValue"
+  },
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "modId": 25,
+  "modOpen": true,
+  "_entityName": "T_43_YU_WS_MODULE_ECONOMY",
+  "customEconomyTypes": [],
+  "customEconomyShops": [
+    {
+      "_name": "Custom Shop1",
+      "id": "shopType14903724",
+      "shopShelfList": [
+        {
+          "name": "Weapon",
+          "id": "shopShelfType74158794",
+          "locName": null,
+          "shopItemList": [
+            {
+              "id": "shopItemType11231092",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "TXT_ITEM_M1873",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 20,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "761baefc5c289cc6e96afe450973c89a",
+                "filePath": "lib://ffitem/item_20",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType56383378",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_27_U_WSP",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 56,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "2cf580af57e381237069fd19f59e5c8a",
+                "filePath": "lib://ffitem/item_56",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType62109285",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_27_U_M1917",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 55,
+                  "count": 1
+                },
+                {
+                  "enumID": 56,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "a18e46d9770d3d7638e06ce305f24307",
+                "filePath": "lib://ffitem/item_55",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType22889582",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "TXT_ITEM_EAGLE",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 9,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "4c0740c7b70965efd0d49a8222115bac",
+                "filePath": "lib://ffitem/item_9",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType80362881",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_21_U_WEAPON_THOMPSON_NAME",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 43,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "f4fbd0e3de4ca6d017bf69fd1fa9213f",
+                "filePath": "lib://ffitem/item_43",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType38463259",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "TXT_ITEM_UMP",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 7,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "70be3001851a98928e5da689929502ee",
+                "filePath": "lib://ffitem/item_7",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType56295572",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "TXT_OB11_HQW_ITEM_P90",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 32,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "178cba65840fc196221cc99a526e39a4",
+                "filePath": "lib://ffitem/item_32",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType48539086",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "TXT_ITEM_MP40",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 15,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "704e20e0e58a882e20f053070dbb3e1d",
+                "filePath": "lib://ffitem/item_15",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType42069213",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_18_U_WEAPON_M1887_NAME",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 41,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "ffc3f4b513fbe51ef58d175d5539a0e9",
+                "filePath": "lib://ffitem/item_41",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType15666014",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_44_CJ_W_AIRBURST",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 21002,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "f426d0587d254d00b2d1d3cf084149c0",
+                "filePath": "lib://ffitem/item_21002",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType70054295",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "TXT_ITEM_AK",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 6,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "9cb4b297a2dc2e25384c2df19681304d",
+                "filePath": "lib://ffitem/item_6",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType95565676",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_24_U_PARAFAL",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 47,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "128269b18e2df0b480d46aefaf96fb0c",
+                "filePath": "lib://ffitem/item_47",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType72922948",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_24_U_M21A5",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 48,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "3c05875974f836b6897d21aa766bb2bf",
+                "filePath": "lib://ffitem/item_48",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType52136718",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_29_HI_MINI14",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 89,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "a117c987ff5eb5814910a96f4de76623",
+                "filePath": "lib://ffitem/item_89",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType14900314",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_22_C_BLT_NAME",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 45,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "258391b94447d33b20cf3c8a771ca9b0",
+                "filePath": "lib://ffitem/item_45",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            },
+            {
+              "id": "shopItemType47695970",
+              "itemId": 0,
+              "itemPrice": 0,
+              "moneyTypeID": null,
+              "totalPurchaseLimit": -1,
+              "curTotalPurchaseLimit": null,
+              "itemName": "T_22_U_GOLD_AWM_N",
+              "locName": null,
+              "itemDesc": "",
+              "itemGoodsMap": [
+                {
+                  "enumID": 65,
+                  "count": 1
+                }
+              ],
+              "iconType": {
+                "fileId": "02475282e9932326ed165668ce0dd7c9",
+                "filePath": "lib://ffitem/item_65",
+                "_tag": {
+                  "type": "GFileRefer"
+                },
+                "fileType": "texture"
+              },
+              "canPurchas": true
+            }
+          ]
+        }
+      ],
+      "locName": null
+    }
+  ],
+  "showSwitch": true
+}
+//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}

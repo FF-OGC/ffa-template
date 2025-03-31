@@ -1,0 +1,836 @@
+{
+  "blocks": {
+    "languageVersion": 0,
+    "blocks": [
+      {
+        "type": "e",
+        "id": "C$Io)Lq57oqB[wO7s4Uu",
+        "x": -364,
+        "y": -32,
+        "extraState": {
+          "X": 138,
+          "L": [],
+          "T": "OnAwake",
+          "OT": "Entity"
+        },
+        "next": {
+          "block": {
+            "type": "fca",
+            "id": ")-y~.T+EwWY-e{V^KfSh",
+            "extraState": {
+              "id": "4D-#EeaSt75nU5%5gE_Z",
+              "name": "Init",
+              "params": [],
+              "returnType": null
+            },
+            "fields": {
+              "T": "W"
+            }
+          }
+        }
+      },
+      {
+        "type": "fna",
+        "id": "4D-#EeaSt75nU5%5gE_Z",
+        "x": -47,
+        "y": -34,
+        "extraState": [],
+        "fields": {
+          "N": "Init"
+        },
+        "inputs": {
+          "D": {
+            "block": {
+              "type": "a",
+              "id": "*$00/)./snYw92+!02%[",
+              "extraState": {
+                "X": 34,
+                "L": [
+                  1,
+                  2,
+                  3
+                ],
+                "T": "CreateCustomHud",
+                "OT": null
+              },
+              "fields": {
+                "P1": {
+                  "name": "Created Entity",
+                  "type": "CustomHud"
+                }
+              },
+              "inputs": {
+                "P2": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "$fSeb1Et@SRG}vtQ+8UC",
+                    "extraState": "Player"
+                  },
+                  "block": {
+                    "type": "ent",
+                    "id": "`OK!H(ZS1wL5szFqZUuQ"
+                  }
+                },
+                "P3": {
+                  "shadow": {
+                    "type": "pkh",
+                    "id": "K%yp8kxx5~4cSRuF57BR",
+                    "fields": {
+                      "HD": "95t5iz6784c-m8mtciz8-mwu17pvga9t"
+                    }
+                  }
+                }
+              },
+              "next": {
+                "block": {
+                  "type": "grs",
+                  "id": "U/BTPZ#QE]t)v@(zBmqE",
+                  "fields": {
+                    "VR": "v2saIyitt",
+                    "O": "UK"
+                  },
+                  "inputs": {
+                    "V": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": "NJm58k11%lEjVo2rY6AI",
+                        "extraState": "CustomHud"
+                      },
+                      "block": {
+                        "type": "lcg",
+                        "id": ";$4bd_k#~}$6#h+`2n$;",
+                        "extraState": "*$00/)./snYw92+!02%[P1",
+                        "fields": {
+                          "VR": "Created Entity"
+                        }
+                      }
+                    }
+                  },
+                  "next": {
+                    "block": {
+                      "type": "prs",
+                      "id": "iaot+3OV:|e^IyB.`p*U",
+                      "fields": {
+                        "P": "OpenState:CustomHud",
+                        "O": "UK"
+                      },
+                      "inputs": {
+                        "H": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "T:Mzdguhq3O1-A-N-Z0W",
+                            "extraState": "Component"
+                          },
+                          "block": {
+                            "type": "grg",
+                            "id": "*16KE5imW%/K%!s}+QZ?",
+                            "fields": {
+                              "VR": "v2saIyitt"
+                            }
+                          }
+                        },
+                        "V": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": ")eXs6P#/(bHPjpFPY}WT",
+                            "extraState": "Bool"
+                          },
+                          "block": {
+                            "type": "ipb",
+                            "id": "Q8,Q%Pj.s}em0iBzz{{c",
+                            "fields": {
+                              "V": "F"
+                            }
+                          }
+                        }
+                      },
+                      "next": {
+                        "block": {
+                          "type": "fca",
+                          "id": "^y!@?*Gkj}9pj1ttG%[%",
+                          "extraState": {
+                            "id": "aeVm4v/8|[rzXvmE829Y",
+                            "name": "UpdateRankingHUD",
+                            "params": [],
+                            "returnType": null
+                          },
+                          "fields": {
+                            "T": "W"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "fna",
+        "id": "aeVm4v/8|[rzXvmE829Y",
+        "x": -368,
+        "y": 383,
+        "extraState": [],
+        "fields": {
+          "N": "UpdateRankingHUD"
+        },
+        "inputs": {
+          "D": {
+            "block": {
+              "type": "lcd",
+              "id": "GJp+{Mnn)#KEFiPjBr|7",
+              "fields": {
+                "VD": {
+                  "name": "score",
+                  "type": "HudLabelWidget"
+                },
+                "T": "$Auto"
+              },
+              "inputs": {
+                "V": {
+                  "shadow": {
+                    "type": "tyd",
+                    "id": "GS^0m=@s3BkD)T^fJS?*",
+                    "extraState": "$Auto"
+                  },
+                  "block": {
+                    "type": "v",
+                    "id": "9pd/}aMJHJMf]7a(ebSB",
+                    "extraState": {
+                      "X": 102,
+                      "L": [
+                        1,
+                        2,
+                        3
+                      ],
+                      "T": "GetWidgetFromCustomHud",
+                      "OT": null
+                    },
+                    "inputs": {
+                      "P1": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": "Z1YH@JwjAijP/MxiEWMc",
+                          "extraState": "Player"
+                        },
+                        "block": {
+                          "type": "ent",
+                          "id": "z5t^xcAtXVjlkbl*c|:w"
+                        }
+                      },
+                      "P2": {
+                        "shadow": {
+                          "type": "tys",
+                          "id": "C%h-}7QywTZP*q41FQE4",
+                          "extraState": "CustomHud"
+                        },
+                        "block": {
+                          "type": "grg",
+                          "id": "w|!7@FHXC7$C}YPe*B~h",
+                          "fields": {
+                            "VR": "v2saIyitt"
+                          }
+                        }
+                      },
+                      "P3": {
+                        "shadow": {
+                          "type": "pwi",
+                          "id": "LHZ:q*%[F6oz=Kx02Cye",
+                          "fields": {
+                            "HD": "95t5iz6784c-m8mtciz8-mwu17pvga9t",
+                            "E": "gyzB60cH"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "next": {
+                "block": {
+                  "type": "lcd",
+                  "id": "{bpyBl[?2xxHm1AYY!o*",
+                  "fields": {
+                    "VD": {
+                      "name": "rank",
+                      "type": "HudLabelWidget"
+                    },
+                    "T": "$Auto"
+                  },
+                  "inputs": {
+                    "V": {
+                      "shadow": {
+                        "type": "tyd",
+                        "id": "30}Wjl28G`mwqAE@5F-U",
+                        "extraState": "$Auto"
+                      },
+                      "block": {
+                        "type": "v",
+                        "id": "vuU;h=Lm{$HB%b7/F4rr",
+                        "extraState": {
+                          "X": 102,
+                          "L": [
+                            1,
+                            2,
+                            3
+                          ],
+                          "T": "GetWidgetFromCustomHud",
+                          "OT": null
+                        },
+                        "inputs": {
+                          "P1": {
+                            "shadow": {
+                              "type": "tys",
+                              "id": "Z1YH@JwjAijP/MxiEWMc",
+                              "extraState": "Player"
+                            },
+                            "block": {
+                              "type": "ent",
+                              "id": "()gQDw%VCL747a/c3GI`"
+                            }
+                          },
+                          "P2": {
+                            "shadow": {
+                              "type": "tys",
+                              "id": "C%h-}7QywTZP*q41FQE4",
+                              "extraState": "CustomHud"
+                            },
+                            "block": {
+                              "type": "grg",
+                              "id": "DFY}PwJRcDpp@t+r!`}w",
+                              "fields": {
+                                "VR": "v2saIyitt"
+                              }
+                            }
+                          },
+                          "P3": {
+                            "shadow": {
+                              "type": "pwi",
+                              "id": "[BO`Q15Rn~(4A-$^q=3/",
+                              "fields": {
+                                "HD": "95t5iz6784c-m8mtciz8-mwu17pvga9t",
+                                "E": "XGL9Zjxd"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "next": {
+                    "block": {
+                      "type": "prs",
+                      "id": "0)Uod]bsbh})v(zR=$kB",
+                      "fields": {
+                        "P": "Text:HudLabelWidget",
+                        "O": "UK"
+                      },
+                      "inputs": {
+                        "H": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "W@Q6,zIz9BV;CD1vZl}7",
+                            "extraState": "Component"
+                          },
+                          "block": {
+                            "type": "lcg",
+                            "id": "sQ{X%j)y/bM5=mmZqWHP",
+                            "extraState": "GJp+{Mnn)#KEFiPjBr|7VD",
+                            "fields": {
+                              "VR": "score"
+                            }
+                          }
+                        },
+                        "V": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "(-md(%6L%NwT2IQ/A^`0",
+                            "extraState": "String"
+                          },
+                          "block": {
+                            "type": "ops",
+                            "id": "}MmxcdGy?!N1#n9}yWzZ",
+                            "extraState": {
+                              "X": 3
+                            },
+                            "inputs": {
+                              "P1": {
+                                "shadow": {
+                                  "type": "tys",
+                                  "id": "?3oKFw]qibCw40B3ob5V",
+                                  "extraState": "Object"
+                                },
+                                "block": {
+                                  "type": "exv",
+                                  "id": "GEit3wDBPZ~X?z+3^Xsh",
+                                  "extraState": {
+                                    "graphId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+                                    "id": "N4x`bG@B}aqs}Nkmz0}6",
+                                    "name": "GetScore",
+                                    "params": [],
+                                    "returnType": "Int",
+                                    "tooltip": "Assets\\ECA\\Player\\PlayerEntity.eca"
+                                  },
+                                  "inputs": {
+                                    "H": {
+                                      "shadow": {
+                                        "type": "tys",
+                                        "id": "rxYQg::oM~Dv+7C5MkgW",
+                                        "extraState": "Component"
+                                      },
+                                      "block": {
+                                        "type": "ent",
+                                        "id": "qol@t0}?gVI~E-9Wgl!C"
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "P2": {
+                                "shadow": {
+                                  "type": "tys",
+                                  "id": "`!4aJtZ#RPgZvu[KZhr}",
+                                  "extraState": "Object"
+                                },
+                                "block": {
+                                  "type": "ipt",
+                                  "id": "xt^gyNO5o;1sz_4,9Fs?",
+                                  "fields": {
+                                    "V": "/"
+                                  }
+                                }
+                              },
+                              "P3": {
+                                "shadow": {
+                                  "type": "tys",
+                                  "id": "(FbMF,cc+WMkbx;u)k5V",
+                                  "extraState": "Object"
+                                },
+                                "block": {
+                                  "type": "exv",
+                                  "id": "Ju)K;T}ei$JQ}O`kCf%^",
+                                  "extraState": {
+                                    "graphId": "8hu4j5d2234-m877k9n2-rrqutvb6dh",
+                                    "id": "z#FYCXrbwu)[%UWZ)ddu",
+                                    "name": "GetObjective",
+                                    "params": [],
+                                    "returnType": "Int",
+                                    "tooltip": "Assets\\ECA\\Global\\GlobalEntity.eca"
+                                  },
+                                  "inputs": {
+                                    "H": {
+                                      "shadow": {
+                                        "type": "tys",
+                                        "id": ".i.1Aae2n?:{73jj7};@",
+                                        "extraState": "Component"
+                                      },
+                                      "block": {
+                                        "type": "v",
+                                        "id": "JniVI]J;)7hmRwxs+FD5",
+                                        "extraState": {
+                                          "X": 95,
+                                          "L": [],
+                                          "T": "GetGlobalEntity",
+                                          "OT": null
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      },
+                      "next": {
+                        "block": {
+                          "type": "prs",
+                          "id": "o.xfC?ueXG!d-lq=d0:f",
+                          "fields": {
+                            "P": "Text:HudLabelWidget",
+                            "O": "UK"
+                          },
+                          "inputs": {
+                            "H": {
+                              "shadow": {
+                                "type": "tys",
+                                "id": "W@Q6,zIz9BV;CD1vZl}7",
+                                "extraState": "Component"
+                              },
+                              "block": {
+                                "type": "lcg",
+                                "id": "YyvJ*w:IVaZJPG#eTWIE",
+                                "extraState": "{bpyBl[?2xxHm1AYY!o*VD",
+                                "fields": {
+                                  "VR": "rank"
+                                }
+                              }
+                            },
+                            "V": {
+                              "shadow": {
+                                "type": "tys",
+                                "id": "JQL{sV#/ZuGJ:Q$D{h/j",
+                                "extraState": "String"
+                              },
+                              "block": {
+                                "type": "ops",
+                                "id": "JJGwd9l{z6vfrFAk7s-9",
+                                "extraState": {
+                                  "X": 2
+                                },
+                                "inputs": {
+                                  "P1": {
+                                    "shadow": {
+                                      "type": "tys",
+                                      "id": "?3oKFw]qibCw40B3ob5V",
+                                      "extraState": "Object"
+                                    },
+                                    "block": {
+                                      "type": "ipt",
+                                      "id": "2{,^uZ?nWw?@)lRuF|vI",
+                                      "fields": {
+                                        "V": "#"
+                                      }
+                                    }
+                                  },
+                                  "P2": {
+                                    "shadow": {
+                                      "type": "tys",
+                                      "id": "`!4aJtZ#RPgZvu[KZhr}",
+                                      "extraState": "Object"
+                                    },
+                                    "block": {
+                                      "type": "exv",
+                                      "id": "D:O8TQL3m{kV2+hn#hp^",
+                                      "extraState": {
+                                        "graphId": "jaml1rtioni-m88hjw07-qludw268wf",
+                                        "id": "pZ8%[pXB:_Xdyx(^1KAd",
+                                        "name": "GetRanking",
+                                        "params": [
+                                          {
+                                            "id": "_arg1249",
+                                            "name": "score",
+                                            "type": "any",
+                                            "isOut": false
+                                          }
+                                        ],
+                                        "returnType": "any",
+                                        "tooltip": "Assets\\ECA\\Global\\GlobalScore.eca"
+                                      },
+                                      "inputs": {
+                                        "H": {
+                                          "shadow": {
+                                            "type": "tys",
+                                            "id": "wggHoc]i(b:/k;s(Dg/P",
+                                            "extraState": "Component"
+                                          },
+                                          "block": {
+                                            "type": "v",
+                                            "id": "41.5(+X1Ze{jYzq%}kT@",
+                                            "extraState": {
+                                              "X": 95,
+                                              "L": [],
+                                              "T": "GetGlobalEntity",
+                                              "OT": null
+                                            }
+                                          }
+                                        },
+                                        "_arg1249": {
+                                          "shadow": {
+                                            "type": "tys",
+                                            "id": "`n1x3@{n{VwY@EQ=ZsOd",
+                                            "extraState": "any"
+                                          },
+                                          "block": {
+                                            "type": "exv",
+                                            "id": "wR$J@KD1O_Yfb[Tpn#YC",
+                                            "extraState": {
+                                              "graphId": "hejqmsywjr-m877mmi3-oo4pr8zinkb",
+                                              "id": "N4x`bG@B}aqs}Nkmz0}6",
+                                              "name": "GetScore",
+                                              "params": [],
+                                              "returnType": "Int",
+                                              "tooltip": "Assets\\ECA\\Player\\PlayerEntity.eca"
+                                            },
+                                            "inputs": {
+                                              "H": {
+                                                "shadow": {
+                                                  "type": "tys",
+                                                  "id": "rxYQg::oM~Dv+7C5MkgW",
+                                                  "extraState": "Component"
+                                                },
+                                                "block": {
+                                                  "type": "ent",
+                                                  "id": "Y{|.ISFnIVj@x:qIQ@c_"
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "e",
+        "id": "BxY,x+/cJ+S_fOW:;kRS",
+        "x": -373,
+        "y": 53,
+        "extraState": {
+          "X": 10,
+          "L": [
+            1
+          ],
+          "T": "OnPlayerDead",
+          "OT": null
+        },
+        "fields": {
+          "P1": {
+            "name": "Player",
+            "type": "Player"
+          }
+        },
+        "next": {
+          "block": {
+            "type": "fca",
+            "id": "Qo:HIE/@!]]o#ua@DP,^",
+            "extraState": {
+              "id": "aeVm4v/8|[rzXvmE829Y",
+              "name": "UpdateRankingHUD",
+              "params": [],
+              "returnType": null
+            },
+            "fields": {
+              "T": "W"
+            }
+          }
+        }
+      },
+      {
+        "type": "fna",
+        "id": "X92g8(i!NiNQLMK)#l1)",
+        "x": 280,
+        "y": 180,
+        "extraState": [],
+        "fields": {
+          "N": "DisplayRankingHUD"
+        },
+        "inputs": {
+          "D": {
+            "block": {
+              "type": "prs",
+              "id": "GK.xzn(mjEhBExduS@re",
+              "fields": {
+                "P": "OpenState:CustomHud",
+                "O": "UK"
+              },
+              "inputs": {
+                "H": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": "T:Mzdguhq3O1-A-N-Z0W",
+                    "extraState": "Component"
+                  },
+                  "block": {
+                    "type": "grg",
+                    "id": "6S.gAy(Y!)5O9uUw!#Yo",
+                    "fields": {
+                      "VR": "v2saIyitt"
+                    }
+                  }
+                },
+                "V": {
+                  "shadow": {
+                    "type": "tys",
+                    "id": ";:99kB*DgP|tBY|x3xse",
+                    "extraState": "Bool"
+                  },
+                  "block": {
+                    "type": "ipb",
+                    "id": "iE3*R=VuO#n90#y8r~L_",
+                    "fields": {
+                      "V": "T"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "e",
+        "id": "FRt30}=vApR?x35~XpV]",
+        "x": -369,
+        "y": 160,
+        "extraState": {
+          "X": 5,
+          "L": [
+            1
+          ],
+          "T": "OnPhaseStart",
+          "OT": null
+        },
+        "fields": {
+          "P1": {
+            "name": "Phase",
+            "type": "Phase"
+          }
+        },
+        "next": {
+          "block": {
+            "type": "lcd",
+            "id": "xYD%aag18^8n*SBg`40g",
+            "fields": {
+              "VD": {
+                "name": "phaseIndex",
+                "type": "Int"
+              },
+              "T": "$Auto"
+            },
+            "inputs": {
+              "V": {
+                "shadow": {
+                  "type": "tyd",
+                  "id": "J6|`Ap9V*@Psc8U]0b]w",
+                  "extraState": "$Auto"
+                },
+                "block": {
+                  "type": "prg",
+                  "id": "*W!3~DZu%wURwp*~3E3,",
+                  "extraState": {
+                    "X": 1,
+                    "T": "Int"
+                  },
+                  "fields": {
+                    "P": "PhaseIndex:Phase"
+                  },
+                  "inputs": {
+                    "H": {
+                      "shadow": {
+                        "type": "tys",
+                        "id": "1Fm7Ibo`=BuX=^q[h:)a",
+                        "extraState": "Component"
+                      },
+                      "block": {
+                        "type": "lcg",
+                        "id": ".,y}*v5yS*$t`9FnFcDI",
+                        "extraState": "FRt30}=vApR?x35~XpV]P1",
+                        "fields": {
+                          "VR": "Phase"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "next": {
+              "block": {
+                "type": "ife1",
+                "id": "=Z^K@_Hk:p@+YfmzRT]7",
+                "extraState": {
+                  "X": 1,
+                  "CIDS": []
+                },
+                "inputs": {
+                  "C": {
+                    "shadow": {
+                      "type": "tys",
+                      "id": "DeAY.wN~e~JpGR[D[nsL",
+                      "extraState": "bool"
+                    },
+                    "block": {
+                      "type": "opc",
+                      "id": "5,+mC=`t**RX6XxzIN%i",
+                      "fields": {
+                        "O": "EQ"
+                      },
+                      "inputs": {
+                        "V1": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "_k)kR:y^hLng/0%Cp7EM",
+                            "extraState": "any"
+                          },
+                          "block": {
+                            "type": "lcg",
+                            "id": "8Yv.KP}P,WUwbVyk190S",
+                            "extraState": "xYD%aag18^8n*SBg`40gVD",
+                            "fields": {
+                              "VR": "phaseIndex"
+                            }
+                          }
+                        },
+                        "V2": {
+                          "shadow": {
+                            "type": "tys",
+                            "id": "V,!j5C36tld8!.rscj@`",
+                            "extraState": "any"
+                          },
+                          "block": {
+                            "type": "ipe",
+                            "id": "AOfvc=3m}p-B}nOdTvfa",
+                            "extraState": 10009,
+                            "fields": {
+                              "I": "abxyGeX2"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "D": {
+                    "block": {
+                      "type": "fca",
+                      "id": "iBll9Zh}q;){DvfC454)",
+                      "extraState": {
+                        "id": "X92g8(i!NiNQLMK)#l1)",
+                        "name": "DisplayRankingHUD",
+                        "params": [],
+                        "returnType": null
+                      },
+                      "fields": {
+                        "T": "W"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "variables": [
+    {
+      "id": "v2saIyitt",
+      "name": "RankingHUD",
+      "type": "CustomHud",
+      "value": null
+    }
+  ],
+  "graphData": {
+    "ownerType": "Entity",
+    "componentTypes": "Entity&Player",
+    "isStatic": false,
+    "platform": 2
+  }
+}
+//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}

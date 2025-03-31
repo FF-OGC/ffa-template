@@ -1,0 +1,107 @@
+{
+  "_tag": {
+    "type": "ParticleSystem"
+  },
+  "_entityId": "ztltg8pL",
+  "children": [],
+  "prefabVariant": null,
+  "activeValue": {
+    "selfValue": true,
+    "valueTag": "activeValue"
+  },
+  "unlockedValue": {
+    "selfValue": true,
+    "valueTag": "unlockedValue"
+  },
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "Duration": 5,
+  "Loop": true,
+  "Lifetime": 2,
+  "LifetimeRandomness": 0,
+  "SimulationSpace": 0,
+  "SimulationSpeed": 1,
+  "MaxParticles": 100,
+  "RateOverTime": 10,
+  "Velocity": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "VelocityRandomness": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Size": 0.3,
+  "SizeRandomness": 0.15,
+  "Angle": 0,
+  "AngleRandomness": 180,
+  "AngularVelocity": 60,
+  "AngularVelocityRandomness": 60,
+  "Acceleration": {
+    "x": 0,
+    "y": -0.5,
+    "z": 0
+  },
+  "AccelerationRandomness": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Damping": 1,
+  "DampingRandomness": 0,
+  "Color": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 1
+  },
+  "GradientStart": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 1
+  },
+  "GradientEnd": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 0
+  },
+  "Shape": 0,
+  "Radius": 0.3,
+  "ConeAngle": 25,
+  "ShapePosition": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ShapeRotation": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ShapeScale": {
+    "x": 1,
+    "y": 1,
+    "z": 1
+  },
+  "Mode": 0,
+  "Texture": null,
+  "ShapeMesh": null,
+  "RenderMode": 0,
+  "RenderMesh": null,
+  "Material": {
+    "fileId": "9qwn6mfrme-m35nhc5q-w14l0wug19e",
+    "filePath": "Assets\\Particles\\BillboardDefault.mat",
+    "_tag": {
+      "type": "GFileRefer"
+    },
+    "fileType": "material"
+  },
+  "StartSpeed": 1,
+  "StartSpeedRandomness": 0.5,
+  "RenderSortMode": 1
+}
+//"{FE:{"v":"0.1.3287354","c":{"FF":4701},"s":100}

@@ -1,0 +1,108 @@
+{
+  "_tag": {
+    "type": "ResourceRegisteration"
+  },
+  "_entityId": "yd4Pnquu",
+  "Resource": {
+    "ui": {
+      "id": "ui",
+      "children": []
+    },
+    "scene": {
+      "id": "scene",
+      "children": [
+        {
+          "refer": {
+            "fileId": "b80uzw07dbv-lw7lo3oj-f7kqzv8vgcj",
+            "filePath": "Assets\\Scene\\Bermuda.scene",
+            "_tag": {
+              "type": "GFileRefer"
+            },
+            "fileType": "scene"
+          },
+          "scriptName": "Bermuda",
+          "children": [
+            {
+              "id": "K4J6koI3",
+              "scriptName": "Lobby"
+            },
+            {
+              "id": "0sX7ZoKL",
+              "scriptName": "Maps"
+            }
+          ]
+        }
+      ]
+    },
+    "prefab": {
+      "id": "prefab",
+      "children": []
+    },
+    "ugcscript": {
+      "id": "ugcscript",
+      "children": []
+    },
+    "eca": {
+      "id": "eca",
+      "children": []
+    },
+    "texture": {
+      "id": "texture",
+      "children": []
+    },
+    "effecttype": {
+      "id": "effecttype",
+      "children": []
+    },
+    "sound": {
+      "id": "sound",
+      "children": []
+    },
+    "fitem": {
+      "id": "fitem",
+      "children": []
+    },
+    "fScenePrefab": {
+      "id": "fScenePrefab",
+      "children": []
+    },
+    "clothskin": {
+      "id": "clothskin",
+      "children": []
+    },
+    "weaponskin": {
+      "id": "weaponskin",
+      "children": []
+    },
+    "vehicleskin": {
+      "id": "vehicleskin",
+      "children": []
+    },
+    "emoteskin": {
+      "id": "emoteskin",
+      "children": []
+    },
+    "csv": {
+      "id": "csv",
+      "children": []
+    },
+    "internalhudtype": {
+      "id": "internalhudtype",
+      "children": []
+    },
+    "textureResource": {
+      "id": "textureResource",
+      "children": []
+    },
+    "mesh": {
+      "id": "mesh",
+      "children": []
+    },
+    "material": {
+      "id": "material",
+      "children": []
+    }
+  },
+  "children": []
+}
+//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}

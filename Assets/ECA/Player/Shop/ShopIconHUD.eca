@@ -1,0 +1,93 @@
+{
+  "blocks": {
+    "languageVersion": 0,
+    "blocks": [
+      {
+        "type": "hbe",
+        "id": "}B($Tw)t;j[D8bwr{Grn",
+        "x": 134,
+        "y": 17,
+        "extraState": {
+          "X": 423,
+          "L": [
+            1
+          ],
+          "T": "OnPress",
+          "OT": "HudButtonWidget"
+        },
+        "fields": {
+          "N": "PressIcon",
+          "H": {
+            "name": "Button",
+            "type": "HudButtonWidget"
+          },
+          "P1": {
+            "name": "Player",
+            "type": "Player"
+          }
+        },
+        "next": {
+          "block": {
+            "type": "exa",
+            "id": "{V8Q:9]yWW0IWgwUGSn]",
+            "extraState": {
+              "graphId": "owaf8jw7sv-m888x9h5-hw8er095u4t",
+              "id": "H}4~!2d)oN8Mkd#0u2{c",
+              "name": "SetShopVisibility",
+              "params": [
+                {
+                  "id": "_arg6440",
+                  "name": "isVisible",
+                  "type": "any",
+                  "isOut": false
+                }
+              ],
+              "tooltip": "Assets\\ECA\\Player\\Shop\\PlayerShop.eca"
+            },
+            "fields": {
+              "T": "S"
+            },
+            "inputs": {
+              "H": {
+                "shadow": {
+                  "type": "tys",
+                  "id": "HB7n+J9V7f)@uj)Gl{m_",
+                  "extraState": "Component"
+                },
+                "block": {
+                  "type": "lcg",
+                  "id": "cpkBAxnk-N4+LhW-A0`j",
+                  "extraState": "}B($Tw)t;j[D8bwr{GrnP1",
+                  "fields": {
+                    "VR": "Player"
+                  }
+                }
+              },
+              "_arg6440": {
+                "shadow": {
+                  "type": "tys",
+                  "id": "caE_x7eK(D0w)aDlg!!^",
+                  "extraState": "any"
+                },
+                "block": {
+                  "type": "ipb",
+                  "id": "_1~EW?}t^Y{@)Y0y;^d8",
+                  "fields": {
+                    "V": "T"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "graphData": {
+    "ownerType": "Entity",
+    "componentTypes": "Entity",
+    "isStatic": false,
+    "platform": 2
+  }
+}
+//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}

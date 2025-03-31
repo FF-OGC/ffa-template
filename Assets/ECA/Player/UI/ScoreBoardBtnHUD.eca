@@ -1,0 +1,72 @@
+{
+  "blocks": {
+    "languageVersion": 0,
+    "blocks": [
+      {
+        "type": "hbe",
+        "id": "Rlu[prKnDju2EI?bcOEe",
+        "x": 592,
+        "y": -23,
+        "extraState": {
+          "X": 423,
+          "L": [
+            1
+          ],
+          "T": "OnPress",
+          "OT": "HudButtonWidget"
+        },
+        "fields": {
+          "N": "Press",
+          "H": {
+            "name": "Button",
+            "type": "HudButtonWidget"
+          },
+          "P1": {
+            "name": "Player",
+            "type": "Player"
+          }
+        },
+        "next": {
+          "block": {
+            "type": "exa",
+            "id": "U#!}n,P:Qw]WT2_.jdp/",
+            "extraState": {
+              "graphId": "cxskknw9j38-m88g4kyk-gh59c95dnqu",
+              "id": "q}.0NHK8cl?9j_*|ETOh",
+              "name": "DisplayScoreBoard",
+              "params": [],
+              "tooltip": "Assets\\ECA\\Player\\UI\\PlayerScoreBoard.eca"
+            },
+            "fields": {
+              "T": "W"
+            },
+            "inputs": {
+              "H": {
+                "shadow": {
+                  "type": "tys",
+                  "id": "[qcmzx)p;yeW[;])POMA",
+                  "extraState": "Component"
+                },
+                "block": {
+                  "type": "lcg",
+                  "id": "ZDmDNy1yd@S;1zEf*c/c",
+                  "extraState": "Rlu[prKnDju2EI?bcOEeP1",
+                  "fields": {
+                    "VR": "Player"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "graphData": {
+    "ownerType": "Entity",
+    "componentTypes": "Entity",
+    "isStatic": false,
+    "platform": 2
+  }
+}
+//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}

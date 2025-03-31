@@ -1,0 +1,78 @@
+{
+  "_tag": {
+    "type": "Material"
+  },
+  "_entityId": "0ywJDoXb",
+  "children": [],
+  "prefabVariant": null,
+  "activeValue": {
+    "selfValue": true,
+    "valueTag": "activeValue"
+  },
+  "unlockedValue": {
+    "selfValue": true,
+    "valueTag": "unlockedValue"
+  },
+  "editorLockValue": false,
+  "editorVisibleValue": true,
+  "shader": {
+    "fileId": "s-j9m234pn2-m862-m62v-h9la-9mpevmu8jvf1",
+    "filePath": "lib://ffshaders/BRMobile/Particle/ParticleStandard",
+    "_tag": {
+      "type": "GFileRefer"
+    },
+    "fileType": "shader"
+  },
+  "paramValue": {
+    "_FixValue": {
+      "x": 1,
+      "y": 1,
+      "z": 0,
+      "w": 0
+    },
+    "_BlendSrc": 4,
+    "_MyZWrite": 0,
+    "renderQueue": 3000,
+    "_BlendDst": 1,
+    "_Color": {
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 1
+    },
+    "_MainTex": {
+      "Texture": {
+        "fileId": "157ebf34b1054baceb95c37da49f5700",
+        "filePath": "lib://fftextures/EffectTextures/Feather.png",
+        "_tag": {
+          "type": "GFileRefer"
+        },
+        "fileType": "texture"
+      },
+      "Tiling": {
+        "x": 1,
+        "y": 1
+      },
+      "Offset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "OpenMainRot": false,
+    "DISABLEMASK": false,
+    "_Mask": {
+      "Texture": null,
+      "Tiling": {
+        "x": 1,
+        "y": 1
+      },
+      "Offset": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    "_MyZTest": 4,
+    "_MyCullMode": 2
+  }
+}
+//"{FE:{"v":"0.1.3256568","c":{"FF":4701},"s":100}
