@@ -58,22 +58,22 @@
                     "y": 0
                   },
                   "sizeDelta": {
-                    "x": 200,
-                    "y": 50
+                    "x": 202,
+                    "y": 52
                   }
                 },
                 "alpha": 100,
                 "priority": 0,
                 "image": {
                   "source": {
-                    "fileId": "f5fab27e20b54008f16925c3418375b9",
-                    "filePath": "lib://fftextures/WorkshopIconLibrary/FF_UI_HuntingGround_Choose.png",
+                    "fileId": "b063b0439839b3d97a8fd2aa6a57ef8b",
+                    "filePath": "lib://fftextures/WorkshopIconLibrary/T_34_M_WS_ICON_SQUARE.png",
                     "_tag": {
                       "type": "GFileRefer"
                     },
                     "fileType": "texture"
                   },
-                  "color": "#ffffff",
+                  "color": "#FFC500",
                   "reverse": {
                     "x": false,
                     "y": false
@@ -169,14 +169,14 @@
                 "priority": 0,
                 "image": {
                   "source": {
-                    "fileId": "0ba7fbea6c357ace9eba165fcaf9465a",
-                    "filePath": "lib://fftextures/WorkshopIconLibrary/BG_black.png",
+                    "fileId": "b063b0439839b3d97a8fd2aa6a57ef8b",
+                    "filePath": "lib://fftextures/WorkshopIconLibrary/T_34_M_WS_ICON_SQUARE.png",
                     "_tag": {
                       "type": "GFileRefer"
                     },
                     "fileType": "texture"
                   },
-                  "color": "#ffffff",
+                  "color": "#000000",
                   "reverse": {
                     "x": false,
                     "y": false
@@ -797,4 +797,4 @@
   "discriminator": "ISceneLike",
   "version": 3
 }
-//"{FE:{"v":"1.12.3513000","c":{"FF":4701},"s":100}
+//"{FE:{"v":"1.12.3545052","c":{"FF":4701},"s":100}
